@@ -1,0 +1,15 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "特斯拉、理想、蔚来、小鹏充电桩门店等信息爬虫",
+  "main": "outputFs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toa",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "got": "^11.8.2"
+  }
+}
