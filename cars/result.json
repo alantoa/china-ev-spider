@@ -1,0 +1,3898 @@
+[
+  {
+    "name": "燃油车",
+    "sub": [
+      {
+        "name": "华晨宝马",
+        "sub": [
+          { "name": "宝马3系" },
+          { "name": "宝马5系" },
+          { "name": "宝马X3" },
+          { "name": "宝马X1" },
+          { "name": "宝马1系" },
+          { "name": "宝马X2" },
+          { "name": "宝马2系旅行车" }
+        ]
+      },
+      {
+        "name": "一汽-大众奥迪",
+        "sub": [
+          { "name": "奥迪A4L" },
+          { "name": "奥迪A6L" },
+          { "name": "奥迪Q5L" },
+          { "name": "奥迪A3" },
+          { "name": "奥迪Q3" },
+          { "name": "奥迪Q2L" },
+          { "name": "奥迪Q5L Sportback" },
+          { "name": "奥迪Q3 Sportback" },
+          { "name": "奥迪A6" },
+          { "name": "奥迪A4" },
+          { "name": "奥迪Q5" }
+        ]
+      },
+      {
+        "name": "北京奔驰",
+        "sub": [
+          { "name": "奔驰C级" },
+          { "name": "奔驰E级" },
+          { "name": "奔驰GLC" },
+          { "name": "奔驰A级" },
+          { "name": "奔驰GLB" },
+          { "name": "奔驰GLA" },
+          { "name": "奔驰A级AMG" },
+          { "name": "奔驰GLK级" }
+        ]
+      },
+      {
+        "name": "广汽本田",
+        "sub": [
+          { "name": "雅阁" },
+          { "name": "皓影" },
+          { "name": "冠道" },
+          { "name": "飞度" },
+          { "name": "缤智" },
+          { "name": "凌派" },
+          { "name": "思迪" },
+          { "name": "锋范经典" },
+          { "name": "歌诗图" },
+          { "name": "理念S1" },
+          { "name": "锋范" },
+          { "name": "雅阁" },
+          { "name": "皓影" },
+          { "name": "奥德赛" },
+          { "name": "凌派" }
+        ]
+      },
+      {
+        "name": "东风本田",
+        "sub": [
+          { "name": "思域" },
+          { "name": "本田CR-V" },
+          { "name": "本田XR-V" },
+          { "name": "INSPIRE" },
+          { "name": "本田UR-V" },
+          { "name": "LIFE" },
+          { "name": "享域" },
+          { "name": "思铂睿" },
+          { "name": "思铭" },
+          { "name": "杰德" },
+          { "name": "哥瑞" },
+          { "name": "竞瑞" },
+          { "name": "本田CR-V" },
+          { "name": "INSPIRE" },
+          { "name": "艾力绅" },
+          { "name": "享域" },
+          { "name": "思铂睿" }
+        ]
+      },
+      {
+        "name": "广汽丰田",
+        "sub": [
+          { "name": "凯美瑞" },
+          { "name": "汉兰达" },
+          { "name": "雷凌" },
+          { "name": "威兰达" },
+          { "name": "YARiS L 致炫" },
+          { "name": "丰田C-HR" },
+          { "name": "YARiS L 致享" },
+          { "name": "雅力士" },
+          { "name": "逸致" },
+          { "name": "凯美瑞" },
+          { "name": "雷凌" },
+          { "name": "威兰达" }
+        ]
+      },
+      {
+        "name": "长城汽车",
+        "sub": [
+          { "name": "哈弗H6" },
+          { "name": "坦克300" },
+          { "name": "哈弗H9" },
+          { "name": "哈弗大狗" },
+          { "name": "炮" },
+          { "name": "哈弗M6" },
+          { "name": "哈弗初恋" },
+          { "name": "WEY VV7" },
+          { "name": "哈弗F7" },
+          { "name": "WEY VV6" },
+          { "name": "WEY VV5" },
+          { "name": "哈弗F7x" },
+          { "name": "哈弗H6 Coupe" },
+          { "name": "哈弗F5" },
+          { "name": "哈弗H2" },
+          { "name": "风骏5" },
+          { "name": "哈弗H7" },
+          { "name": "WEY VV7 GT" },
+          { "name": "哈弗H4" },
+          { "name": "风骏7" },
+          { "name": "哈弗H3" },
+          { "name": "长城精灵" },
+          { "name": "炫丽" },
+          { "name": "酷熊" },
+          { "name": "长城M1" },
+          { "name": "嘉誉" },
+          { "name": "赛影" },
+          { "name": "凌傲" },
+          { "name": "赛弗" },
+          { "name": "长城M2" },
+          { "name": "哈弗H5" },
+          { "name": "长城C30" },
+          { "name": "长城C50" },
+          { "name": "长城C20R" },
+          { "name": "哈弗H8" },
+          { "name": "长城V80" },
+          { "name": "长城M4" },
+          { "name": "风骏3" },
+          { "name": "金迪尔" },
+          { "name": "风骏6" },
+          { "name": "哈弗H1" },
+          { "name": "哈弗H2s" },
+          { "name": "炮" },
+          { "name": "风骏5" },
+          { "name": "风骏7" },
+          { "name": "哈弗H3" },
+          { "name": "赛影" },
+          { "name": "哈弗H5" },
+          { "name": "哈弗H8" },
+          { "name": "风骏3" },
+          { "name": "金迪尔" },
+          { "name": "风骏6" }
+        ]
+      },
+      {
+        "name": "一汽-大众",
+        "sub": [
+          { "name": "迈腾" },
+          { "name": "速腾" },
+          { "name": "宝来" },
+          { "name": "高尔夫" },
+          { "name": "探岳" },
+          { "name": "一汽-大众CC" },
+          { "name": "T-ROC探歌" },
+          { "name": "探影" },
+          { "name": "探岳X" },
+          { "name": "C-TREK蔚领" },
+          { "name": "高尔夫·嘉旅" },
+          { "name": "开迪" },
+          { "name": "宝来经典" },
+          { "name": "捷达" },
+          { "name": "开迪" },
+          { "name": "宝来经典" },
+          { "name": "捷达" }
+        ]
+      },
+      {
+        "name": "上汽大众",
+        "sub": [
+          { "name": "朗逸" },
+          { "name": "帕萨特" },
+          { "name": "途观L" },
+          { "name": "途昂" },
+          { "name": "途岳" },
+          { "name": "Polo" },
+          { "name": "凌渡" },
+          { "name": "桑塔纳" },
+          { "name": "威然" },
+          { "name": "辉昂" },
+          { "name": "途观X" },
+          { "name": "途昂X" },
+          { "name": "T-Cross途铠" },
+          { "name": "途安" },
+          { "name": "桑塔纳志俊" },
+          { "name": "Passat领驭" },
+          { "name": "高尔" },
+          { "name": "桑塔纳经典" },
+          { "name": "途观" },
+          { "name": "朗境" }
+        ]
+      },
+      {
+        "name": "东风日产",
+        "sub": [
+          { "name": "轩逸" },
+          { "name": "天籁" },
+          { "name": "奇骏" },
+          { "name": "逍客" },
+          { "name": "骐达" },
+          { "name": "楼兰" },
+          { "name": "劲客" },
+          { "name": "蓝鸟" },
+          { "name": "骏逸" },
+          { "name": "颐达" },
+          { "name": "骊威" },
+          { "name": "蓝鸟经典" },
+          { "name": "阳光" },
+          { "name": "玛驰" },
+          { "name": "西玛" },
+          { "name": "楼兰" }
+        ]
+      },
+      {
+        "name": "一汽丰田",
+        "sub": [
+          { "name": "卡罗拉" },
+          { "name": "亚洲狮" },
+          { "name": "亚洲龙" },
+          { "name": "RAV4荣放" },
+          { "name": "威驰" },
+          { "name": "奕泽IZOA" },
+          { "name": "威驰FS" },
+          { "name": "柯斯达" },
+          { "name": "锐志" },
+          { "name": "特锐" },
+          { "name": "兰德酷路泽" },
+          { "name": "普拉多" },
+          { "name": "花冠" },
+          { "name": "皇冠" },
+          { "name": "卡罗拉" },
+          { "name": "亚洲龙" },
+          { "name": "RAV4荣放" },
+          { "name": "普锐斯" }
+        ]
+      },
+      {
+        "name": "上汽通用别克",
+        "sub": [
+          { "name": "君威" },
+          { "name": "别克GL8" },
+          { "name": "英朗" },
+          { "name": "君越" },
+          { "name": "昂科威" },
+          { "name": "昂科旗" },
+          { "name": "昂科威S" },
+          { "name": "威朗" },
+          { "name": "凯越" },
+          { "name": "昂科拉" },
+          { "name": "别克GL6" },
+          { "name": "昂科拉GX" },
+          { "name": "阅朗" },
+          { "name": "荣御" },
+          { "name": "林荫大道" }
+        ]
+      },
+      {
+        "name": "雷克萨斯",
+        "sub": [
+          { "name": "雷克萨斯ES" },
+          { "name": "雷克萨斯RX" },
+          { "name": "雷克萨斯NX" },
+          { "name": "雷克萨斯UX" },
+          { "name": "雷克萨斯LX" },
+          { "name": "雷克萨斯IS" },
+          { "name": "雷克萨斯RC" },
+          { "name": "雷克萨斯GS" },
+          { "name": "雷克萨斯SC" },
+          { "name": "雷克萨斯RX经典" },
+          { "name": "雷克萨斯ES" },
+          { "name": "雷克萨斯RX" },
+          { "name": "雷克萨斯NX" },
+          { "name": "雷克萨斯LS" },
+          { "name": "雷克萨斯UX" },
+          { "name": "雷克萨斯CT" },
+          { "name": "雷克萨斯LM" },
+          { "name": "雷克萨斯LC" },
+          { "name": "雷克萨斯GS" },
+          { "name": "雷克萨斯RX经典" }
+        ]
+      },
+      {
+        "name": "上汽通用凯迪拉克",
+        "sub": [
+          { "name": "凯迪拉克CT5" },
+          { "name": "凯迪拉克CT6" },
+          { "name": "凯迪拉克XT6" },
+          { "name": "凯迪拉克CT4" },
+          { "name": "凯迪拉克XT5" },
+          { "name": "凯迪拉克XT4" },
+          { "name": "SLS赛威" },
+          { "name": "凯迪拉克CTS" },
+          { "name": "凯迪拉克XTS" },
+          { "name": "凯迪拉克ATS-L" }
+        ]
+      },
+      {
+        "name": "北京现代",
+        "sub": [
+          { "name": "伊兰特" },
+          { "name": "名图" },
+          { "name": "途胜" },
+          { "name": "北京现代ix35" },
+          { "name": "索纳塔" },
+          { "name": "菲斯塔" },
+          { "name": "瑞纳" },
+          { "name": "胜达" },
+          { "name": "领动" },
+          { "name": "悦动" },
+          { "name": "悦纳" },
+          { "name": "北京现代ix25" },
+          { "name": "ENCINO 昂希诺" },
+          { "name": "途胜L" },
+          { "name": "逸行" },
+          { "name": "御翔" },
+          { "name": "雅绅特" },
+          { "name": "领翔" },
+          { "name": "瑞奕" },
+          { "name": "北京现代i30" },
+          { "name": "名驭" },
+          { "name": "朗动" },
+          { "name": "悦纳RV" },
+          { "name": "索纳塔八" },
+          { "name": "索纳塔九" },
+          { "name": "索纳塔九" }
+        ]
+      },
+      {
+        "name": "长安汽车",
+        "sub": [
+          { "name": "长安UNI-K" },
+          { "name": "长安CS75 PLUS" },
+          { "name": "逸动" },
+          { "name": "长安欧尚X5" },
+          { "name": "长安UNI-T" },
+          { "name": "长安欧尚X7" },
+          { "name": "长安CS35PLUS" },
+          { "name": "长安CS55PLUS" },
+          { "name": "长安CS75" },
+          { "name": "锐程CC" },
+          { "name": "长安CS85 COUPE" },
+          { "name": "长安CS55" },
+          { "name": "长安CS95" },
+          { "name": "长安欧尚科赛Pro" },
+          { "name": "悦翔" },
+          { "name": "逸动DT" },
+          { "name": "逸动XT" },
+          { "name": "长安CS15" },
+          { "name": "长安欧尚X70A" },
+          { "name": "长安欧尚A600" },
+          { "name": "科尚" },
+          { "name": "科赛5" },
+          { "name": "长安欧尚A800" },
+          { "name": "欧尚长行" },
+          { "name": "科赛3" },
+          { "name": "奔奔i" },
+          { "name": "杰勋" },
+          { "name": "志翔" },
+          { "name": "悦翔V7" },
+          { "name": "长安CX30" },
+          { "name": "奔奔MINI" },
+          { "name": "奔奔LOVE" },
+          { "name": "长安CX20" },
+          { "name": "悦翔V3" },
+          { "name": "长安CS35" },
+          { "name": "睿骋" },
+          { "name": "悦翔V5" },
+          { "name": "欧力威" },
+          { "name": "奔奔" },
+          { "name": "睿骋CC" },
+          { "name": "长安欧尚CX70" },
+          { "name": "凌轩" },
+          { "name": "科赛" },
+          { "name": "杰勋" }
+        ]
+      },
+      {
+        "name": "奔驰(进口)",
+        "sub": [
+          { "name": "奔驰S级" },
+          { "name": "奔驰GLE" },
+          { "name": "奔驰C级(进口)" },
+          { "name": "奔驰G级" },
+          { "name": "奔驰GLS" },
+          { "name": "奔驰E级(进口)" },
+          { "name": "奔驰CLA级" },
+          { "name": "奔驰GLC(进口)" },
+          { "name": "奔驰CLS级" },
+          { "name": "奔驰A级(进口)" },
+          { "name": "奔驰B级" },
+          { "name": "奔驰SLC级" },
+          { "name": "奔驰SL级" },
+          { "name": "奔驰SLK级" },
+          { "name": "唯雅诺(进口)" },
+          { "name": "奔驰GL级" },
+          { "name": "奔驰R级" },
+          { "name": "奔驰CLK级" },
+          { "name": "奔驰GLK级(进口)" },
+          { "name": "奔驰CL级" },
+          { "name": "奔驰M级" },
+          { "name": "奔驰GL级" },
+          { "name": "奔驰GLK级(进口)" },
+          { "name": "奔驰M级" }
+        ]
+      },
+      {
+        "name": "吉利汽车",
+        "sub": [
+          { "name": "星瑞" },
+          { "name": "博越" },
+          { "name": "帝豪" },
+          { "name": "缤越" },
+          { "name": "星越" },
+          { "name": "缤瑞" },
+          { "name": "豪越" },
+          { "name": "帝豪GS" },
+          { "name": "帝豪GL" },
+          { "name": "远景X3" },
+          { "name": "博瑞" },
+          { "name": "远景" },
+          { "name": "帝豪S" },
+          { "name": "吉利ICON" },
+          { "name": "远景X6" },
+          { "name": "嘉际" },
+          { "name": "吉利GC7" },
+          { "name": "金刚财富" },
+          { "name": "吉利SX7" },
+          { "name": "金刚" },
+          { "name": "自由舰" },
+          { "name": "优利欧" },
+          { "name": "熊猫" },
+          { "name": "金鹰" },
+          { "name": "中国龙" },
+          { "name": "英伦C5" },
+          { "name": "豪情" },
+          { "name": "美人豹" },
+          { "name": "经典帝豪" },
+          { "name": "吉利EC8" },
+          { "name": "英伦TX4" },
+          { "name": "吉利GX7" },
+          { "name": "海景" },
+          { "name": "吉利SC5-RV" },
+          { "name": "吉利GX2" },
+          { "name": "吉利SC3" },
+          { "name": "豪情SUV" },
+          { "name": "远景X1" },
+          { "name": "远景S1" },
+          { "name": "英伦TX4" }
+        ]
+      },
+      {
+        "name": "宝马(进口)",
+        "sub": [
+          { "name": "宝马X5" },
+          { "name": "宝马7系" },
+          { "name": "宝马4系" },
+          { "name": "宝马5系(进口)" },
+          { "name": "宝马X7" },
+          { "name": "宝马X6" },
+          { "name": "宝马2系" },
+          { "name": "宝马6系GT" },
+          { "name": "宝马X4" },
+          { "name": "宝马8系" },
+          { "name": "宝马3系GT" },
+          { "name": "宝马Z4" },
+          { "name": "宝马2系多功能旅行车" },
+          { "name": "宝马1系(进口)" },
+          { "name": "宝马6系" },
+          { "name": "宝马5系GT" },
+          { "name": "宝马2系旅行车(进口)" }
+        ]
+      },
+      {
+        "name": "上汽集团",
+        "sub": [
+          { "name": "荣威RX5 MAX" },
+          { "name": "名爵5" },
+          { "name": "荣威RX5" },
+          { "name": "名爵6" },
+          { "name": "荣威i5" },
+          { "name": "荣威iMAX8" },
+          { "name": "荣威RX8" },
+          { "name": "荣威i6 MAX" },
+          { "name": "MG领航" },
+          { "name": "荣威RX3" },
+          { "name": "名爵ZS" },
+          { "name": "荣威i6" },
+          { "name": "名爵HS" },
+          { "name": "荣威750" },
+          { "name": "名爵7" },
+          { "name": "名爵TF" },
+          { "name": "荣威550" },
+          { "name": "名爵3SW" },
+          { "name": "荣威350" },
+          { "name": "名爵3" },
+          { "name": "荣威W5" },
+          { "name": "荣威950" },
+          { "name": "锐腾" },
+          { "name": "锐行" },
+          { "name": "荣威360" },
+          { "name": "荣威750" }
+        ]
+      },
+      {
+        "name": "长安福特",
+        "sub": [
+          { "name": "探险者" },
+          { "name": "锐界" },
+          { "name": "锐际" },
+          { "name": "蒙迪欧" },
+          { "name": "福睿斯" },
+          { "name": "金牛座" },
+          { "name": "翼虎" },
+          { "name": "福克斯" },
+          { "name": "麦柯斯" },
+          { "name": "蒙迪欧-致胜" },
+          { "name": "嘉年华" },
+          { "name": "翼搏" },
+          { "name": "致胜" }
+        ]
+      },
+      {
+        "name": "领克",
+        "sub": [
+          { "name": "领克03" },
+          { "name": "领克05" },
+          { "name": "领克01" },
+          { "name": "领克06" },
+          { "name": "领克02" }
+        ]
+      },
+      {
+        "name": "保时捷",
+        "sub": [
+          { "name": "Panamera" },
+          { "name": "Cayenne" },
+          { "name": "保时捷718" },
+          { "name": "Macan" },
+          { "name": "保时捷911" },
+          { "name": "Boxster" },
+          { "name": "Cayman" },
+          { "name": "Carrera GT" }
+        ]
+      },
+      {
+        "name": "长安马自达",
+        "sub": [
+          { "name": "马自达3 昂克赛拉" },
+          { "name": "马自达CX-5" },
+          { "name": "马自达CX-30" },
+          { "name": "马自达CX-8" },
+          { "name": "马自达2" },
+          { "name": "马自达3" },
+          { "name": "马自达3星骋" },
+          { "name": "马自达2劲翔" }
+        ]
+      },
+      {
+        "name": "长安林肯",
+        "sub": [
+          { "name": "航海家" },
+          { "name": "冒险家" },
+          { "name": "飞行家" }
+        ]
+      },
+      {
+        "name": "一汽马自达",
+        "sub": [
+          { "name": "阿特兹" },
+          { "name": "马自达CX-4" },
+          { "name": "睿翼" },
+          { "name": "马自达6" },
+          { "name": "马自达8" },
+          { "name": "马自达CX-7" }
+        ]
+      },
+      {
+        "name": "沃尔沃亚太",
+        "sub": [
+          { "name": "沃尔沃XC60" },
+          { "name": "沃尔沃S90" },
+          { "name": "沃尔沃XC40" },
+          { "name": "沃尔沃S60" },
+          { "name": "沃尔沃S60L" },
+          { "name": "XC Classic" }
+        ]
+      },
+      {
+        "name": "上汽斯柯达",
+        "sub": [
+          { "name": "明锐" },
+          { "name": "速派" },
+          { "name": "柯迪亚克" },
+          { "name": "柯米克" },
+          { "name": "柯珞克" },
+          { "name": "昕锐" },
+          { "name": "昕动" },
+          { "name": "柯迪亚克GT" },
+          { "name": "柯米克GT" },
+          { "name": "晶锐" },
+          { "name": "昊锐" },
+          { "name": "Yeti" }
+        ]
+      },
+      {
+        "name": "东风悦达起亚",
+        "sub": [
+          { "name": "智跑" },
+          { "name": "K5凯酷" },
+          { "name": "起亚K3" },
+          { "name": "起亚KX5" },
+          { "name": "KX3傲跑" },
+          { "name": "奕跑" },
+          { "name": "起亚KX7" },
+          { "name": "焕驰" },
+          { "name": "福瑞迪" },
+          { "name": "凯绅" },
+          { "name": "嘉华" },
+          { "name": "远舰" },
+          { "name": "锐欧" },
+          { "name": "赛拉图" },
+          { "name": "狮跑" },
+          { "name": "千里马" },
+          { "name": "秀尔" },
+          { "name": "起亚K2" },
+          { "name": "起亚K4" },
+          { "name": "起亚K3S" },
+          { "name": "KX CROSS" }
+        ]
+      },
+      {
+        "name": "上汽通用五菱",
+        "sub": [
+          { "name": "五菱凯捷" },
+          { "name": "五菱宏光" },
+          { "name": "五菱征途" },
+          { "name": "宝骏510" },
+          { "name": "新宝骏RS-3" },
+          { "name": "宝骏530" },
+          { "name": "宝骏730" },
+          { "name": "五菱宏光PLUS" },
+          { "name": "新宝骏RC-5" },
+          { "name": "向往" },
+          { "name": "宝骏310" },
+          { "name": "五菱之光" },
+          { "name": "新宝骏RS-5" },
+          { "name": "五菱宏光S3" },
+          { "name": "新宝骏RM-5" },
+          { "name": "宝骏360" },
+          { "name": "五菱荣光" },
+          { "name": "五菱宏光V" },
+          { "name": "五菱荣光小卡" },
+          { "name": "宝骏310W" },
+          { "name": "五菱荣光新卡" },
+          { "name": "新宝骏RC-6" },
+          { "name": "五菱荣光V" },
+          { "name": "五菱之光小卡" },
+          { "name": "五菱之光V" },
+          { "name": "乐驰" },
+          { "name": "宝骏630" },
+          { "name": "PN货车" },
+          { "name": "宝骏610" },
+          { "name": "五菱征程经典" },
+          { "name": "宝骏560" },
+          { "name": "宝骏330" }
+        ]
+      },
+      {
+        "name": "一汽红旗",
+        "sub": [
+          { "name": "红旗H9" },
+          { "name": "红旗H5" },
+          { "name": "红旗HS5" },
+          { "name": "红旗HS7" },
+          { "name": "红旗H7" },
+          { "name": "红旗盛世" },
+          { "name": "新明仕" },
+          { "name": "红旗L5" }
+        ]
+      },
+      {
+        "name": "上汽通用雪佛兰",
+        "sub": [
+          { "name": "迈锐宝XL" },
+          { "name": "开拓者" },
+          { "name": "探界者" },
+          { "name": "科鲁泽" },
+          { "name": "科沃兹" },
+          { "name": "沃兰多" },
+          { "name": "创酷" },
+          { "name": "创界" },
+          { "name": "乐风" },
+          { "name": "赛欧" },
+          { "name": "景程" },
+          { "name": "乐骋" },
+          { "name": "科鲁兹" },
+          { "name": "迈锐宝" },
+          { "name": "爱唯欧" },
+          { "name": "科帕奇" },
+          { "name": "乐风RV" }
+        ]
+      },
+      {
+        "name": "广汽乘用车",
+        "sub": [
+          { "name": "传祺M8" },
+          { "name": "传祺GS4" },
+          { "name": "传祺GS8" },
+          { "name": "传祺M6" },
+          { "name": "传祺GA4" },
+          { "name": "传祺GS3" },
+          { "name": "传祺GA6" },
+          { "name": "传祺GA8" },
+          { "name": "传祺GS5" },
+          { "name": "传祺GS4 COUPE" },
+          { "name": "传祺GS8S" },
+          { "name": "传祺GA5" },
+          { "name": "传祺GA3" },
+          { "name": "传祺GA3S视界" },
+          { "name": "传祺GS5 Super" },
+          { "name": "传祺GS7" }
+        ]
+      },
+      {
+        "name": "路虎(进口)",
+        "sub": [
+          { "name": "揽胜" },
+          { "name": "卫士" },
+          { "name": "揽胜星脉" },
+          { "name": "发现" },
+          { "name": "揽胜运动版" },
+          { "name": "揽胜极光(进口)" },
+          { "name": "神行者2" },
+          { "name": "神行者" },
+          { "name": "发现神行(进口)" },
+          { "name": "揽胜极光(进口)" },
+          { "name": "神行者2" }
+        ]
+      },
+      {
+        "name": "奥迪(进口)",
+        "sub": [
+          { "name": "奥迪A7(进口)" },
+          { "name": "奥迪A8" },
+          { "name": "奥迪A5" },
+          { "name": "奥迪Q7" },
+          { "name": "奥迪Q8" },
+          { "name": "奥迪S4" },
+          { "name": "奥迪A6(进口)" },
+          { "name": "奥迪S5" },
+          { "name": "奥迪S7" },
+          { "name": "奥迪A4(进口)" },
+          { "name": "奥迪S8" },
+          { "name": "奥迪S6" },
+          { "name": "奥迪SQ5" },
+          { "name": "奥迪TT" },
+          { "name": "奥迪A3(进口)" },
+          { "name": "奥迪TTS" }
+        ]
+      },
+      {
+        "name": "星途",
+        "sub": [
+          { "name": "揽月" },
+          { "name": "星途TXL" },
+          { "name": "星途LX" },
+          { "name": "星途TX" }
+        ]
+      },
+      {
+        "name": "东风风行",
+        "sub": [
+          { "name": "风行T5 EVO" },
+          { "name": "菱智" },
+          { "name": "风行T5" },
+          { "name": "菱智PLUS" },
+          { "name": "风行T5L" },
+          { "name": "风行SX6" },
+          { "name": "风行M7" },
+          { "name": "景逸S50" },
+          { "name": "景逸" },
+          { "name": "景逸X3" },
+          { "name": "风行F600" },
+          { "name": "景逸SUV" },
+          { "name": "风行CM7" },
+          { "name": "景逸X5" },
+          { "name": "景逸XV" },
+          { "name": "风行S500" },
+          { "name": "景逸X6" },
+          { "name": "风行M6" }
+        ]
+      },
+      {
+        "name": "大众(进口)",
+        "sub": [
+          { "name": "途锐" },
+          { "name": "Tiguan" },
+          { "name": "蔚揽" },
+          { "name": "夏朗" },
+          { "name": "高尔夫(进口)" },
+          { "name": "Passat" },
+          { "name": "迈特威" },
+          { "name": "凯路威" },
+          { "name": "大众up!" },
+          { "name": "大众Eos" },
+          { "name": "甲壳虫" },
+          { "name": "辉腾" },
+          { "name": "迈腾(进口)" },
+          { "name": "尚酷" },
+          { "name": "大众CC" },
+          { "name": "辉腾" },
+          { "name": "Transporter" }
+        ]
+      },
+      {
+        "name": "奇瑞捷豹路虎",
+        "sub": [
+          { "name": "捷豹XEL" },
+          { "name": "揽胜极光" },
+          { "name": "发现运动版" },
+          { "name": "捷豹XFL" },
+          { "name": "捷豹E-PACE" },
+          { "name": "发现神行" }
+        ]
+      },
+      {
+        "name": "比亚迪",
+        "sub": [
+          { "name": "宋PLUS" },
+          { "name": "宋Pro" },
+          { "name": "唐" },
+          { "name": "宋MAX" },
+          { "name": "宋" },
+          { "name": "比亚迪F3" },
+          { "name": "秦Pro" },
+          { "name": "比亚迪D1" },
+          { "name": "秦" },
+          { "name": "思锐" },
+          { "name": "速锐" },
+          { "name": "福莱尔" },
+          { "name": "比亚迪S8" },
+          { "name": "比亚迪F6" },
+          { "name": "比亚迪F0" },
+          { "name": "比亚迪M6" },
+          { "name": "比亚迪G3R" },
+          { "name": "比亚迪G3" },
+          { "name": "比亚迪F3R" },
+          { "name": "比亚迪L3" },
+          { "name": "比亚迪S6" },
+          { "name": "比亚迪G6" },
+          { "name": "比亚迪S7" },
+          { "name": "比亚迪G5" },
+          { "name": "元" }
+        ]
+      },
+      {
+        "name": "Jeep(进口)",
+        "sub": [
+          { "name": "牧马人" },
+          { "name": "大切诺基(进口)" },
+          { "name": "自由人" },
+          { "name": "指挥官经典" },
+          { "name": "自由客" }
+        ]
+      },
+      {
+        "name": "江铃福特",
+        "sub": [
+          { "name": "领裕" },
+          { "name": "领界" },
+          { "name": "撼路者" },
+          { "name": "全顺" },
+          { "name": "途睿欧" },
+          { "name": "经典全顺" },
+          { "name": "全顺" },
+          { "name": "新世代全顺" },
+          { "name": "经典全顺" }
+        ]
+      },
+      {
+        "name": "北京越野",
+        "sub": [
+          { "name": "北京BJ40" },
+          { "name": "北京BJ80" },
+          { "name": "北京BJ90" },
+          { "name": "北京BJ30" },
+          { "name": "北京F40" },
+          { "name": "北京BJ20" },
+          { "name": "北京BJ40" }
+        ]
+      },
+      {
+        "name": "梅赛德斯-迈巴赫",
+        "sub": [{ "name": "迈巴赫S级" }, { "name": "迈巴赫GLS级" }]
+      },
+      {
+        "name": "沃尔沃(进口)",
+        "sub": [
+          { "name": "沃尔沃XC90" },
+          { "name": "沃尔沃V60" },
+          { "name": "沃尔沃V90" },
+          { "name": "沃尔沃XC40(进口)" },
+          { "name": "沃尔沃S40(进口)" },
+          { "name": "沃尔沃S80" },
+          { "name": "沃尔沃C70" },
+          { "name": "沃尔沃C30" },
+          { "name": "沃尔沃V40" },
+          { "name": "沃尔沃XC70" }
+        ]
+      },
+      {
+        "name": "广汽三菱",
+        "sub": [
+          { "name": "欧蓝德" },
+          { "name": "劲炫ASX" },
+          { "name": "奕歌" },
+          { "name": "帕杰罗·劲畅" },
+          { "name": "帕杰罗" }
+        ]
+      },
+      {
+        "name": "奇瑞汽车",
+        "sub": [
+          { "name": "瑞虎8" },
+          { "name": "瑞虎8 PLUS" },
+          { "name": "捷途X70 PLUS" },
+          { "name": "艾瑞泽5 PLUS" },
+          { "name": "瑞虎7" },
+          { "name": "瑞虎3x" },
+          { "name": "艾瑞泽5" },
+          { "name": "瑞虎5x" },
+          { "name": "捷途X70" },
+          { "name": "捷途X90" },
+          { "name": "瑞虎3" },
+          { "name": "艾瑞泽GX" },
+          { "name": "捷途X70S" },
+          { "name": "捷途X95" },
+          { "name": "捷途X70M" },
+          { "name": "捷途X70 Coupe" },
+          { "name": "瑞虎3x PLUS" },
+          { "name": "奇瑞X1" },
+          { "name": "奇瑞QQ6" },
+          { "name": "东方之子" },
+          { "name": "风云" },
+          { "name": "旗云" },
+          { "name": "奇瑞QQ3" },
+          { "name": "奇瑞A5" },
+          { "name": "东方之子Cross" },
+          { "name": "瑞虎" },
+          { "name": "奇瑞A1" },
+          { "name": "奇瑞A3" },
+          { "name": "奇瑞QQme" },
+          { "name": "威麟X5" },
+          { "name": "瑞麒G6" },
+          { "name": "瑞麒G5" },
+          { "name": "瑞麒M1" },
+          { "name": "旗云1" },
+          { "name": "风云2" },
+          { "name": "瑞麒M5" },
+          { "name": "威麟V5" },
+          { "name": "瑞麒G3" },
+          { "name": "旗云2" },
+          { "name": "旗云3" },
+          { "name": "奇瑞E5" },
+          { "name": "旗云5" },
+          { "name": "爱卡" },
+          { "name": "奇瑞E3" },
+          { "name": "艾瑞泽7" },
+          { "name": "奇瑞QQ" },
+          { "name": "艾瑞泽3" },
+          { "name": "瑞虎5" },
+          { "name": "艾瑞泽M7" },
+          { "name": "威麟V5" }
+        ]
+      },
+      {
+        "name": "MINI",
+        "sub": [
+          { "name": "MINI" },
+          { "name": "MINI COUNTRYMAN" },
+          { "name": "MINI CLUBMAN" },
+          { "name": "MINI COUPE" },
+          { "name": "MINI ROADSTER" },
+          { "name": "MINI PACEMAN" }
+        ]
+      },
+      {
+        "name": "梅赛德斯-AMG",
+        "sub": [
+          { "name": "AMG GT" },
+          { "name": "奔驰G级AMG" },
+          { "name": "奔驰C级AMG" },
+          { "name": "奔驰S级AMG" },
+          { "name": "奔驰GLE AMG" },
+          { "name": "奔驰E级AMG" },
+          { "name": "奔驰CLA级AMG" },
+          { "name": "奔驰A级AMG(进口)" },
+          { "name": "奔驰GLC AMG" },
+          { "name": "奔驰GLB AMG" },
+          { "name": "奔驰GLA AMG" },
+          { "name": "奔驰GLS AMG" },
+          { "name": "奔驰SLS级AMG" },
+          { "name": "奔驰SL级AMG" },
+          { "name": "奔驰SLK级AMG" },
+          { "name": "奔驰M级AMG" },
+          { "name": "奔驰GL级AMG" }
+        ]
+      },
+      {
+        "name": "郑州日产",
+        "sub": [
+          { "name": "途达" },
+          { "name": "纳瓦拉" },
+          { "name": "锐骐6" },
+          { "name": "帕拉索" },
+          { "name": "锐骐皮卡" },
+          { "name": "帅客" },
+          { "name": "奥丁" },
+          { "name": "御轩" },
+          { "name": "帕拉丁" },
+          { "name": "日产NV200" },
+          { "name": "日产D22" },
+          { "name": "锐骐多功能车" },
+          { "name": "日产ZN厢式车" },
+          { "name": "俊风" },
+          { "name": "东风风度MX6" },
+          { "name": "东风风度MX5" },
+          { "name": "锐骐6" },
+          { "name": "锐骐皮卡" },
+          { "name": "奥丁" },
+          { "name": "日产D22" },
+          { "name": "锐骐多功能车" }
+        ]
+      },
+      {
+        "name": "捷豹",
+        "sub": [
+          { "name": "捷豹F-PACE" },
+          { "name": "捷豹F-TYPE" },
+          { "name": "捷豹XF" },
+          { "name": "捷豹XE" },
+          { "name": "捷豹S-TYPE" },
+          { "name": "捷豹XK" },
+          { "name": "捷豹XJ" },
+          { "name": "捷豹X-TYPE" }
+        ]
+      },
+      {
+        "name": "福特(进口)",
+        "sub": [
+          { "name": "Mustang" },
+          { "name": "福特F-150" },
+          { "name": "探险者(进口)" },
+          { "name": "福克斯(进口)" },
+          { "name": "福特GT" },
+          { "name": "Ranger" }
+        ]
+      },
+      {
+        "name": "东风标致",
+        "sub": [
+          { "name": "标致508" },
+          { "name": "标致4008" },
+          { "name": "标致5008" },
+          { "name": "标致408" },
+          { "name": "标致2008" },
+          { "name": "标致307" },
+          { "name": "标致206" },
+          { "name": "标致207" },
+          { "name": "标致308" },
+          { "name": "标致3008" },
+          { "name": "标致301" },
+          { "name": "标致308S" }
+        ]
+      },
+      {
+        "name": "福建奔驰",
+        "sub": [
+          { "name": "威霆" },
+          { "name": "奔驰V级" },
+          { "name": "唯雅诺" },
+          { "name": "凌特" }
+        ]
+      },
+      {
+        "name": "广汽菲克Jeep",
+        "sub": [
+          { "name": "指南者" },
+          { "name": "自由光" },
+          { "name": "大指挥官" },
+          { "name": "自由侠" },
+          { "name": "指挥官" }
+        ]
+      },
+      {
+        "name": "玛莎拉蒂",
+        "sub": [
+          { "name": "Ghibli" },
+          { "name": "Levante" },
+          { "name": "总裁" },
+          { "name": "GranCabrio" },
+          { "name": "GranTurismo" },
+          { "name": "玛莎拉蒂Spyder" }
+        ]
+      },
+      {
+        "name": "丰田(进口)",
+        "sub": [
+          { "name": "普拉多(进口)" },
+          { "name": "Supra" },
+          { "name": "Sienna" },
+          { "name": "兰德酷路泽(进口)" },
+          { "name": "丰田86" },
+          { "name": "凯美瑞(海外)" },
+          { "name": "HIACE" },
+          { "name": "FJ 酷路泽" },
+          { "name": "普瑞维亚" },
+          { "name": "杰路驰" },
+          { "name": "Granvia" },
+          { "name": "埃尔法" },
+          { "name": "威尔法" }
+        ]
+      },
+      {
+        "name": "Audi Sport",
+        "sub": [
+          { "name": "奥迪RS 7" },
+          { "name": "奥迪R8" },
+          { "name": "奥迪RS 6" },
+          { "name": "奥迪RS Q8" },
+          { "name": "奥迪RS 4" },
+          { "name": "奥迪RS 5" },
+          { "name": "奥迪RS 3" },
+          { "name": "奥迪TT RS" }
+        ]
+      },
+      {
+        "name": "宾利",
+        "sub": [
+          { "name": "欧陆" },
+          { "name": "飞驰" },
+          { "name": "添越" },
+          { "name": "雅致" },
+          { "name": "慕尚" }
+        ]
+      },
+      {
+        "name": "东风英菲尼迪",
+        "sub": [{ "name": "英菲尼迪QX50" }, { "name": "英菲尼迪Q50L" }]
+      },
+      {
+        "name": "劳斯莱斯",
+        "sub": [
+          { "name": "库里南" },
+          { "name": "幻影" },
+          { "name": "古思特" },
+          { "name": "魅影" },
+          { "name": "曜影" }
+        ]
+      },
+      {
+        "name": "东风雪铁龙",
+        "sub": [
+          { "name": "天逸 C5 AIRCROSS" },
+          { "name": "雪铁龙C6" },
+          { "name": "雪铁龙C3-XR" },
+          { "name": "雪铁龙C3L" },
+          { "name": "云逸 C4 AIRCROSS" },
+          { "name": "雪铁龙C4L" },
+          { "name": "雪铁龙C2" },
+          { "name": "爱丽舍" },
+          { "name": "富康" },
+          { "name": "赛纳" },
+          { "name": "毕加索" },
+          { "name": "凯旋" },
+          { "name": "世嘉" },
+          { "name": "雪铁龙C5" },
+          { "name": "C4世嘉" }
+        ]
+      },
+      {
+        "name": "一汽-大众捷达",
+        "sub": [
+          { "name": "捷达VS5" },
+          { "name": "捷达VS7" },
+          { "name": "捷达VA3" }
+        ]
+      },
+      {
+        "name": "阿尔法·罗密欧",
+        "sub": [
+          { "name": "Giulia" },
+          { "name": "Stelvio" },
+          { "name": "ALFA 156" },
+          { "name": "ALFA GT" },
+          { "name": "ALFA 147" },
+          { "name": "ALFA 166" }
+        ]
+      },
+      {
+        "name": "长安标致雪铁龙",
+        "sub": [
+          { "name": "DS 9" },
+          { "name": "DS 7" },
+          { "name": "DS 6" },
+          { "name": "DS 5" },
+          { "name": "DS 5LS" },
+          { "name": "DS 4S" }
+        ]
+      },
+      {
+        "name": "兰博基尼",
+        "sub": [
+          { "name": "Urus" },
+          { "name": "Aventador" },
+          { "name": "Huracán" },
+          { "name": "Murcielago" },
+          { "name": "Gallardo" },
+          { "name": "Reventon" }
+        ]
+      },
+      {
+        "name": "三菱(进口)",
+        "sub": [
+          { "name": "帕杰罗·劲畅(进口)" },
+          { "name": "欧蓝德(进口)" },
+          { "name": "LANCER" },
+          { "name": "帕杰罗(进口)" },
+          { "name": "伊柯丽斯" },
+          { "name": "格蓝迪" }
+        ]
+      },
+      {
+        "name": "林肯(进口)",
+        "sub": [
+          { "name": "领航员" },
+          { "name": "林肯MKZ" },
+          { "name": "林肯大陆" },
+          { "name": "航海家(进口)" },
+          { "name": "林肯MKC" },
+          { "name": "飞行家(进口)" },
+          { "name": "城市" },
+          { "name": "林肯MKX" },
+          { "name": "林肯MKT" },
+          { "name": "林肯MKS" },
+          { "name": "林肯MKZ" }
+        ]
+      },
+      {
+        "name": "宝马M",
+        "sub": [
+          { "name": "宝马M5" },
+          { "name": "宝马M2" },
+          { "name": "宝马M8" },
+          { "name": "宝马X5 M" },
+          { "name": "宝马X6 M" },
+          { "name": "宝马X4 M" },
+          { "name": "宝马X3 M" },
+          { "name": "宝马1系M" },
+          { "name": "宝马M6" }
+        ]
+      },
+      {
+        "name": "一汽奔腾",
+        "sub": [
+          { "name": "奔腾T55" },
+          { "name": "奔腾B70" },
+          { "name": "奔腾T99" },
+          { "name": "奔腾T77" },
+          { "name": "奔腾T33" },
+          { "name": "奔腾X40" },
+          { "name": "奔腾B50" },
+          { "name": "奔腾B90" },
+          { "name": "奔腾X80" },
+          { "name": "奔腾B30" }
+        ]
+      },
+      {
+        "name": "斯巴鲁",
+        "sub": [
+          { "name": "森林人" },
+          { "name": "傲虎" },
+          { "name": "力狮" },
+          { "name": "斯巴鲁XV" },
+          { "name": "翼豹" },
+          { "name": "驰鹏" },
+          { "name": "森林人" },
+          { "name": "斯巴鲁XV" }
+        ]
+      },
+      {
+        "name": "东风启辰",
+        "sub": [
+          { "name": "启辰D60" },
+          { "name": "启辰星" },
+          { "name": "启辰T60" },
+          { "name": "启辰T90" },
+          { "name": "启辰T70" },
+          { "name": "启辰T70X" },
+          { "name": "启辰D50" },
+          { "name": "启辰R50" },
+          { "name": "启辰R50X" },
+          { "name": "启辰R30" },
+          { "name": "启辰M50V" }
+        ]
+      },
+      {
+        "name": "法拉利",
+        "sub": [
+          { "name": "Roma" },
+          { "name": "法拉利488" },
+          { "name": "法拉利F8" },
+          { "name": "法拉利812" },
+          { "name": "法拉利458" },
+          { "name": "法拉利575M" },
+          { "name": "法拉利599" },
+          { "name": "法拉利F430" },
+          { "name": "法拉利360" },
+          { "name": "法拉利612" },
+          { "name": "California T" },
+          { "name": "F12berlinetta" },
+          { "name": "法拉利FF" },
+          { "name": "GTC4Lusso" },
+          { "name": "Enzo" }
+        ]
+      },
+      {
+        "name": "东风乘用车",
+        "sub": [
+          { "name": "东风风神AX7" },
+          { "name": "奕炫" },
+          { "name": "奕炫GS" },
+          { "name": "东风风神AX4" },
+          { "name": "东风风神S30" },
+          { "name": "东风风神H30" },
+          { "name": "东风风神A60" },
+          { "name": "东风风神L60" },
+          { "name": "东风A9" },
+          { "name": "东风风神A30" },
+          { "name": "东风风神AX3" },
+          { "name": "东风风神AX5" }
+        ]
+      },
+      {
+        "name": "现代(进口)",
+        "sub": [
+          { "name": "帕里斯帝" },
+          { "name": "胜达(进口)" },
+          { "name": "途胜(进口)" },
+          { "name": "美佳" },
+          { "name": "酷派" },
+          { "name": "雅科仕" },
+          { "name": "维拉克斯" },
+          { "name": "劳恩斯" },
+          { "name": "胜达经典" },
+          { "name": "君爵" },
+          { "name": "劳恩斯-酷派" },
+          { "name": "H-1辉翼" },
+          { "name": "格越" },
+          { "name": "胜达(进口)" },
+          { "name": "格越" }
+        ]
+      },
+      {
+        "name": "上汽大通",
+        "sub": [
+          { "name": "G50" },
+          { "name": "G10" },
+          { "name": "G20" },
+          { "name": "D90 Pro" },
+          { "name": "T70" },
+          { "name": "RG20" },
+          { "name": "D60" },
+          { "name": "T60" },
+          { "name": "伊思坦纳" },
+          { "name": "D90" },
+          { "name": "G10" },
+          { "name": "T90" },
+          { "name": "V80" },
+          { "name": "G20" },
+          { "name": "D90 Pro" },
+          { "name": "V90" },
+          { "name": "RV80" },
+          { "name": "RV90" },
+          { "name": "T70" },
+          { "name": "T60" }
+        ]
+      },
+      {
+        "name": "阿斯顿·马丁",
+        "sub": [
+          { "name": "V8 Vantage" },
+          { "name": "阿斯顿·马丁DB11" },
+          { "name": "阿斯顿·马丁DBX" },
+          { "name": "阿斯顿·马丁DBS" },
+          { "name": "拉共达Taraf" },
+          { "name": "阿斯顿·马丁DB9" },
+          { "name": "Vanquish" },
+          { "name": "V12 Vantage" },
+          { "name": "Rapide" },
+          { "name": "Virage" },
+          { "name": "V12 Zagato" },
+          { "name": "Cygnet" }
+        ]
+      },
+      {
+        "name": "广汽讴歌",
+        "sub": [
+          { "name": "讴歌RDX" },
+          { "name": "讴歌CDX" },
+          { "name": "讴歌TLX-L" },
+          { "name": "讴歌CDX" }
+        ]
+      },
+      {
+        "name": "江汽集团",
+        "sub": [
+          { "name": "思皓A5" },
+          { "name": "思皓X8" },
+          { "name": "思皓X7" },
+          { "name": "思皓X4" }
+        ]
+      },
+      {
+        "name": "北京汽车制造厂",
+        "sub": [
+          { "name": "BJ 212" },
+          { "name": "勇士" },
+          { "name": "战旗" },
+          { "name": "勇士皮卡" },
+          { "name": "越铃" },
+          { "name": "陆霸" },
+          { "name": "骑士S12" },
+          { "name": "北京BW007" },
+          { "name": "战旗皮卡" },
+          { "name": "北汽007" },
+          { "name": "勇士皮卡" },
+          { "name": "锐铃" },
+          { "name": "陆铃" },
+          { "name": "越铃" },
+          { "name": "战旗皮卡" }
+        ]
+      },
+      {
+        "name": "迈凯伦",
+        "sub": [
+          { "name": "迈凯伦GT" },
+          { "name": "迈凯伦720S" },
+          { "name": "迈凯伦570" },
+          { "name": "迈凯伦600LT" },
+          { "name": "迈凯伦540C" },
+          { "name": "迈凯伦12C" },
+          { "name": "迈凯伦625C" }
+        ]
+      },
+      {
+        "name": "福田汽车",
+        "sub": [
+          { "name": "大将军" },
+          { "name": "风景G7" },
+          { "name": "祥菱M" },
+          { "name": "风景G5" },
+          { "name": "拓陆者" },
+          { "name": "祥菱V" },
+          { "name": "风景G9" },
+          { "name": "蒙派克E" },
+          { "name": "福田风景" },
+          { "name": "拓陆者驭途" },
+          { "name": "福田征服者" },
+          { "name": "萨普" },
+          { "name": "拓陆者胜途" },
+          { "name": "蒙派克S" },
+          { "name": "祥菱S" },
+          { "name": "风景V3" },
+          { "name": "风景V5" },
+          { "name": "伽途ix5" },
+          { "name": "伽途ix7" },
+          { "name": "迷迪" },
+          { "name": "萨瓦纳" },
+          { "name": "伽途im6" },
+          { "name": "伽途im8" },
+          { "name": "伽途GT" },
+          { "name": "大将军" },
+          { "name": "图雅诺" },
+          { "name": "风景G7" },
+          { "name": "风景G5" },
+          { "name": "拓陆者" },
+          { "name": "风景G9" },
+          { "name": "福田风景" },
+          { "name": "拓陆者驭途" },
+          { "name": "福田征服者" },
+          { "name": "拓陆者胜途" },
+          { "name": "蒙派克S" },
+          { "name": "萨瓦纳" }
+        ]
+      },
+      {
+        "name": "观致汽车",
+        "sub": [
+          { "name": "观致7" },
+          { "name": "观致5" },
+          { "name": "观致3" },
+          { "name": "观致 Model Young" }
+        ]
+      },
+      {
+        "name": "英菲尼迪(进口)",
+        "sub": [
+          { "name": "英菲尼迪Q60" },
+          { "name": "英菲尼迪Q70" },
+          { "name": "英菲尼迪QX80" },
+          { "name": "英菲尼迪Q50" },
+          { "name": "英菲尼迪QX50(进口)" },
+          { "name": "英菲尼迪Q60S" },
+          { "name": "英菲尼迪G系" },
+          { "name": "英菲尼迪QX" },
+          { "name": "英菲尼迪M系" },
+          { "name": "英菲尼迪EX" },
+          { "name": "英菲尼迪FX" },
+          { "name": "英菲尼迪JX" },
+          { "name": "英菲尼迪QX70" },
+          { "name": "英菲尼迪ESQ" },
+          { "name": "英菲尼迪QX30" },
+          { "name": "英菲尼迪FX" },
+          { "name": "英菲尼迪QX60" },
+          { "name": "英菲尼迪Q50" },
+          { "name": "英菲尼迪M系" }
+        ]
+      },
+      {
+        "name": "东风小康",
+        "sub": [
+          { "name": "风光580" },
+          { "name": "风光500" },
+          { "name": "风光S560" },
+          { "name": "风光ix5" },
+          { "name": "风光330" },
+          { "name": "东风小康K07S" },
+          { "name": "风光ix7" },
+          { "name": "东风小康K01" },
+          { "name": "风光580Pro" },
+          { "name": "东风小康C32" },
+          { "name": "东风小康C56" },
+          { "name": "东风小康K05S" },
+          { "name": "东风小康D51" },
+          { "name": "东风小康C31" },
+          { "name": "东风小康C37" },
+          { "name": "东风小康K02" },
+          { "name": "东风小康C35" },
+          { "name": "东风小康C36" },
+          { "name": "东风小康D52" },
+          { "name": "东风小康C55" },
+          { "name": "东风小康C52" },
+          { "name": "东风小康C51" },
+          { "name": "风光360" },
+          { "name": "东风小康V07S" },
+          { "name": "东风小康V21" },
+          { "name": "东风小康V22" },
+          { "name": "东风小康V27" },
+          { "name": "东风小康K06" },
+          { "name": "东风小康K17" },
+          { "name": "东风小康K07" },
+          { "name": "东风小康K07II" },
+          { "name": "东风小康V29" },
+          { "name": "风光" },
+          { "name": "风光350" },
+          { "name": "风光370" },
+          { "name": "风光360" },
+          { "name": "风光370" }
+        ]
+      },
+      {
+        "name": "BEIJING汽车",
+        "sub": [
+          { "name": "BEIJING X7" },
+          { "name": "BEIJING X3" },
+          { "name": "BEIJING U7" },
+          { "name": "BEIJING U5" },
+          { "name": "BEIJING X5" },
+          { "name": "北汽威旺205" },
+          { "name": "北汽威旺306" },
+          { "name": "绅宝X35" },
+          { "name": "绅宝X65" },
+          { "name": "绅宝CC" },
+          { "name": "绅宝X55" },
+          { "name": "北京汽车E系列" },
+          { "name": "绅宝D70" },
+          { "name": "绅宝D50" },
+          { "name": "北汽威旺M20" },
+          { "name": "北汽威旺307" },
+          { "name": "绅宝D60" },
+          { "name": "北汽威旺T205-D" },
+          { "name": "绅宝D20" },
+          { "name": "绅宝D80" },
+          { "name": "绅宝X25" },
+          { "name": "北汽威旺M30" },
+          { "name": "北汽威旺S50" },
+          { "name": "北汽威旺M35" },
+          { "name": "北汽威旺M50F" },
+          { "name": "北汽威旺M60" },
+          { "name": "绅宝智行" }
+        ]
+      },
+      { "name": "路特斯", "sub": [{ "name": "Evora" }, { "name": "Esprit" }] },
+      {
+        "name": "江淮汽车",
+        "sub": [
+          { "name": "瑞风M3" },
+          { "name": "嘉悦A5" },
+          { "name": "瑞风M4" },
+          { "name": "嘉悦X4" },
+          { "name": "瑞风S3" },
+          { "name": "悍途" },
+          { "name": "嘉悦X7" },
+          { "name": "星锐" },
+          { "name": "帅铃T8" },
+          { "name": "瑞风L6 MAX" },
+          { "name": "瑞风S4" },
+          { "name": "帅铃T6" },
+          { "name": "瑞风S7" },
+          { "name": "江淮V7" },
+          { "name": "和悦A30" },
+          { "name": "瑞风S5" },
+          { "name": "宾悦" },
+          { "name": "瑞鹰" },
+          { "name": "和悦" },
+          { "name": "同悦RS" },
+          { "name": "同悦" },
+          { "name": "悦悦" },
+          { "name": "瑞风M2" },
+          { "name": "瑞风" },
+          { "name": "瑞铃" },
+          { "name": "瑞风M6" },
+          { "name": "瑞风A60" },
+          { "name": "和悦A13" },
+          { "name": "和悦A13RS" },
+          { "name": "江淮K3" },
+          { "name": "江淮K5" },
+          { "name": "征途" },
+          { "name": "凌铃" },
+          { "name": "瑞风S2" },
+          { "name": "瑞风S2mini" },
+          { "name": "瑞风M4" },
+          { "name": "悍途" },
+          { "name": "瑞风M5" },
+          { "name": "星锐" },
+          { "name": "帅铃T8" },
+          { "name": "帅铃T6" },
+          { "name": "江淮V7" },
+          { "name": "瑞鹰" },
+          { "name": "瑞风" },
+          { "name": "瑞铃" },
+          { "name": "江淮K3" },
+          { "name": "江淮K5" },
+          { "name": "征途" },
+          { "name": "凌铃" },
+          { "name": "江淮4R3皮卡" }
+        ]
+      },
+      {
+        "name": "宝沃汽车",
+        "sub": [
+          { "name": "宝沃BX5" },
+          { "name": "宝沃BX7" },
+          { "name": "宝沃BX3" },
+          { "name": "宝沃BX6" }
+        ]
+      },
+      {
+        "name": "MINI JCW",
+        "sub": [
+          { "name": "MINI JCW" },
+          { "name": "MINI JCW CLUBMAN" },
+          { "name": "MINI JCW COUNTRYMAN" },
+          { "name": "MINI JCW COUPE" },
+          { "name": "MINI JCW PACEMAN" }
+        ]
+      },
+      {
+        "name": "海马汽车",
+        "sub": [
+          { "name": "海马8S" },
+          { "name": "海马M3" },
+          { "name": "海马王子" },
+          { "name": "海马M6" },
+          { "name": "福仕达荣达" },
+          { "name": "海马爱尚" },
+          { "name": "福仕达鸿达" },
+          { "name": "福仕达腾达" },
+          { "name": "福仕达福卡" },
+          { "name": "海马S5" },
+          { "name": "海马S5青春版" }
+        ]
+      },
+      {
+        "name": "华晨中华",
+        "sub": [
+          { "name": "中华V7" },
+          { "name": "中华V3" },
+          { "name": "中华骏捷Cross" },
+          { "name": "中华骏捷" },
+          { "name": "中华酷宝" },
+          { "name": "中华骏捷FRV" },
+          { "name": "中华骏捷FSV" },
+          { "name": "中华尊驰" },
+          { "name": "中华V5" },
+          { "name": "中华H530" },
+          { "name": "中华H230" },
+          { "name": "中华H320" },
+          { "name": "中华H330" },
+          { "name": "中华H220" },
+          { "name": "中华豚" },
+          { "name": "中华H3" },
+          { "name": "中华V6" }
+        ]
+      },
+      {
+        "name": "江铃汽车",
+        "sub": [
+          { "name": "驭胜S350" },
+          { "name": "宝典" },
+          { "name": "域虎7" },
+          { "name": "域虎9" },
+          { "name": "域虎3" },
+          { "name": "宝威" },
+          { "name": "驭胜S330" },
+          { "name": "驭胜S350" },
+          { "name": "特顺" },
+          { "name": "宝典" },
+          { "name": "域虎7" },
+          { "name": "域虎9" },
+          { "name": "域虎5" },
+          { "name": "域虎3" },
+          { "name": "宝威" }
+        ]
+      },
+      {
+        "name": "长安凯程",
+        "sub": [
+          { "name": "欧诺" },
+          { "name": "凯程F70" },
+          { "name": "睿行M60" },
+          { "name": "神骐T20" },
+          { "name": "长安星卡" },
+          { "name": "睿行M80" },
+          { "name": "长安之星5" },
+          { "name": "神骐F30" },
+          { "name": "长安之星9" },
+          { "name": "睿行M90" },
+          { "name": "睿行S50" },
+          { "name": "长安星卡C系" },
+          { "name": "睿行M70" },
+          { "name": "长安星卡L系" },
+          { "name": "神骐T10" },
+          { "name": "睿行S50T" },
+          { "name": "长安星光" },
+          { "name": "金牛星" },
+          { "name": "长安之星" },
+          { "name": "长安之星S460" },
+          { "name": "长安之星2" },
+          { "name": "长安星光4500" },
+          { "name": "尊行" },
+          { "name": "长安之星7" },
+          { "name": "长安之星3" },
+          { "name": "神骐F50" },
+          { "name": "凯程F70" }
+        ]
+      },
+      {
+        "name": "华晨雷诺",
+        "sub": [
+          { "name": "金杯海狮" },
+          { "name": "金杯海狮王" },
+          { "name": "金杯快运" },
+          { "name": "阁瑞斯" },
+          { "name": "金杯大海狮" },
+          { "name": "金杯F50" },
+          { "name": "观境" },
+          { "name": "金杯S50" },
+          { "name": "金杯大海狮" }
+        ]
+      },
+      {
+        "name": "东南汽车",
+        "sub": [
+          { "name": "东南DX3" },
+          { "name": "东南A5翼舞" },
+          { "name": "东南DX7" },
+          { "name": "东南DX5" },
+          { "name": "希旺" },
+          { "name": "蓝瑟" },
+          { "name": "大捷龙" },
+          { "name": "三菱戈蓝" },
+          { "name": "凯领" },
+          { "name": "V3菱悦" },
+          { "name": "君阁" },
+          { "name": "菱帅" },
+          { "name": "菱绅" },
+          { "name": "翼神" },
+          { "name": "得利卡" },
+          { "name": "V5菱致" },
+          { "name": "V6菱仕" },
+          { "name": "风迪思" }
+        ]
+      },
+      {
+        "name": "一汽海马",
+        "sub": [
+          { "name": "海马7X" },
+          { "name": "海马V70" },
+          { "name": "福美来" },
+          { "name": "海马3" },
+          { "name": "欢动" },
+          { "name": "海马骑士" },
+          { "name": "丘比特" },
+          { "name": "海福星" },
+          { "name": "普力马" },
+          { "name": "海马M8" },
+          { "name": "海马S7" },
+          { "name": "福美来MPV" },
+          { "name": "福美来F7" },
+          { "name": "福美来F5" }
+        ]
+      },
+      {
+        "name": "潍柴汽车",
+        "sub": [
+          { "name": "潍柴汽车U70" },
+          { "name": "英致G5" },
+          { "name": "英致G3" },
+          { "name": "英致737" }
+        ]
+      },
+      {
+        "name": "凯翼汽车",
+        "sub": [
+          { "name": "凯翼X3" },
+          { "name": "炫界" },
+          { "name": "凯翼X5" },
+          { "name": "凯翼C3R" },
+          { "name": "凯翼C3" },
+          { "name": "凯翼V3" },
+          { "name": "凯翼E3" }
+        ]
+      },
+      {
+        "name": "江西五十铃",
+        "sub": [
+          { "name": "瑞迈" },
+          { "name": "mu-X牧游侠" },
+          { "name": "D-MAX" },
+          { "name": "铃拓" },
+          { "name": "瑞迈" }
+        ]
+      },
+      { "name": "钧天机械", "sub": [{ "name": "勇猛者" }] },
+      {
+        "name": "陆风汽车",
+        "sub": [
+          { "name": "荣曜" },
+          { "name": "风尚" },
+          { "name": "陆风X6" },
+          { "name": "风华" },
+          { "name": "陆风X9" },
+          { "name": "陆风X7" },
+          { "name": "陆风X8" },
+          { "name": "陆风X2" },
+          { "name": "陆风X5" },
+          { "name": "陆风逍遥" },
+          { "name": "陆风X6" },
+          { "name": "陆风X9" },
+          { "name": "陆风X8" }
+        ]
+      },
+      {
+        "name": "野马汽车",
+        "sub": [
+          { "name": "博骏" },
+          { "name": "斯派卡" },
+          { "name": "野马F99" },
+          { "name": "野马F10" },
+          { "name": "野马F16" },
+          { "name": "野马F12" },
+          { "name": "野马T70" }
+        ]
+      },
+      {
+        "name": "Mansory",
+        "sub": [
+          { "name": "迈莎锐G级" },
+          { "name": "迈莎锐Cayenne" },
+          { "name": "迈莎锐揽胜" },
+          { "name": "迈莎锐M580" }
+        ]
+      },
+      {
+        "name": "中兴汽车",
+        "sub": [
+          { "name": "威虎" },
+          { "name": "领主" },
+          { "name": "小老虎" },
+          { "name": "旗舰A9" },
+          { "name": "无限V3" },
+          { "name": "无限V5" },
+          { "name": "无限V7" },
+          { "name": "昌铃" },
+          { "name": "无限" },
+          { "name": "威虎G3" },
+          { "name": "陆地方舟" },
+          { "name": "威虎" },
+          { "name": "领主" },
+          { "name": "旗舰A9" },
+          { "name": "无限V3" },
+          { "name": "无限V5" },
+          { "name": "昌铃" },
+          { "name": "威虎G3" },
+          { "name": "驰野-鑫精英" }
+        ]
+      },
+      {
+        "name": "华晨鑫源",
+        "sub": [
+          { "name": "海狮X30L" },
+          { "name": "小海狮X30" },
+          { "name": "海狮S" },
+          { "name": "金杯T30" },
+          { "name": "金杯T32" },
+          { "name": "金杯T50" },
+          { "name": "海星T20" },
+          { "name": "金杯T52" },
+          { "name": "金杯T20" },
+          { "name": "金杯T10" },
+          { "name": "鑫源X30L" },
+          { "name": "金杯T50S" },
+          { "name": "金杯T20S" },
+          { "name": "金杯T52S" },
+          { "name": "金杯T22S" },
+          { "name": "海星T22" },
+          { "name": "金杯T22" },
+          { "name": "金杯T12" },
+          { "name": "鑫源T52 PLUS" },
+          { "name": "鑫卡T50 PLUS" },
+          { "name": "鑫源T32S" },
+          { "name": "鑫卡S52" },
+          { "name": "鑫源T30S" },
+          { "name": "鑫卡S50" },
+          { "name": "鑫源T20S" },
+          { "name": "鑫源T22S" },
+          { "name": "海星A7" },
+          { "name": "海星A9" },
+          { "name": "华晨金杯750" }
+        ]
+      },
+      {
+        "name": "一汽吉林",
+        "sub": [
+          { "name": "森雅R8" },
+          { "name": "森雅R7" },
+          { "name": "解放T90" },
+          { "name": "森雅" },
+          { "name": "森雅R9" },
+          { "name": "森雅M80" },
+          { "name": "森雅S80" },
+          { "name": "佳宝V70" },
+          { "name": "佳宝T57" },
+          { "name": "佳宝V55" },
+          { "name": "佳宝V52" },
+          { "name": "佳宝T51" },
+          { "name": "佳宝T50" },
+          { "name": "佳宝V70 II代" },
+          { "name": "佳宝V80" },
+          { "name": "解放T80" },
+          { "name": "佳宝V75" },
+          { "name": "佳宝V77" }
+        ]
+      },
+      {
+        "name": "北汽昌河",
+        "sub": [
+          { "name": "昌河北斗星" },
+          { "name": "昌河北斗星X5" },
+          { "name": "北汽昌河A6" },
+          { "name": "北汽昌河M50S" },
+          { "name": "福瑞达K22" },
+          { "name": "福瑞达K21" },
+          { "name": "福瑞达K11S" },
+          { "name": "福瑞达K12S" },
+          { "name": "福瑞达" },
+          { "name": "爱迪尔" },
+          { "name": "北汽昌河Q35" },
+          { "name": "福运" },
+          { "name": "北汽昌河Q25" },
+          { "name": "北汽昌河M70" },
+          { "name": "北汽昌河Q7" }
+        ]
+      },
+      {
+        "name": "五菱工业",
+        "sub": [
+          { "name": "五菱荣光小卡翼开启" },
+          { "name": "五菱荣光新卡翼开启" }
+        ]
+      },
+      {
+        "name": "SWM斯威汽车",
+        "sub": [
+          { "name": "SWM斯威X7" },
+          { "name": "SWM斯威G05" },
+          { "name": "SWM斯威X2" },
+          { "name": "SWM斯威G01" },
+          { "name": "SWM斯威X3" }
+        ]
+      },
+      {
+        "name": "汉腾汽车",
+        "sub": [
+          { "name": "汉腾X7" },
+          { "name": "汉腾X5" },
+          { "name": "汉腾V7" }
+        ]
+      },
+      {
+        "name": "LUMMA Design",
+        "sub": [
+          { "name": "LUMMA CLR G770" },
+          { "name": "LUMMA CLR RS" },
+          { "name": "LUMMA CLR V" }
+        ]
+      },
+      {
+        "name": "罗伦士",
+        "sub": [
+          { "name": "Lorinser LS560MX" },
+          { "name": "Lorinser MAYBACH S级" },
+          { "name": "Lorinser MS500L" },
+          { "name": "Sprinter LS500" },
+          { "name": "Metris MS500" },
+          { "name": "Lorinser VS系列" },
+          { "name": "Lorinser GS500" }
+        ]
+      },
+      {
+        "name": "宇通客车",
+        "sub": [
+          { "name": "宇通T7" },
+          { "name": "宇通T7" },
+          { "name": "宇通CL6" }
+        ]
+      },
+      {
+        "name": "九龙汽车",
+        "sub": [
+          { "name": "艾菲" },
+          { "name": "九龙A6" },
+          { "name": "九龙A4" },
+          { "name": "九龙C6" },
+          { "name": "九龙A5" },
+          { "name": "大MPV" },
+          { "name": "考斯特" },
+          { "name": "九龙A6" },
+          { "name": "九龙A4" },
+          { "name": "九龙C6" },
+          { "name": "九龙A5" },
+          { "name": "大MPV" },
+          { "name": "考斯特" }
+        ]
+      },
+      {
+        "name": "长安跨越",
+        "sub": [
+          { "name": "长安V3" },
+          { "name": "跨越王X5" },
+          { "name": "跨越王X1" },
+          { "name": "跨越王X3" },
+          { "name": "新豹T3" },
+          { "name": "跨越者D5" },
+          { "name": "新豹3" },
+          { "name": "跨越星V5" },
+          { "name": "长安V5" },
+          { "name": "新豹MINI" },
+          { "name": "跨越王" }
+        ]
+      },
+      {
+        "name": "IMSA",
+        "sub": [{ "name": "IMSA 迈巴赫S级" }, { "name": "IMSA S级" }]
+      },
+      {
+        "name": "东风汽车",
+        "sub": [
+          { "name": "御风P16" },
+          { "name": "俊风CV03" },
+          { "name": "东风皮卡" },
+          { "name": "御风" },
+          { "name": "御风P16" },
+          { "name": "猛士" },
+          { "name": "虎视" },
+          { "name": "东风皮卡" },
+          { "name": "御风S16" }
+        ]
+      },
+      {
+        "name": "开瑞汽车",
+        "sub": [
+          { "name": "开瑞K60" },
+          { "name": "优劲" },
+          { "name": "优劲T5" },
+          { "name": "优优" },
+          { "name": "优翼" },
+          { "name": "优雅" },
+          { "name": "优派" },
+          { "name": "优胜" },
+          { "name": "优胜2代" },
+          { "name": "优优2代" },
+          { "name": "优雅2代" },
+          { "name": "开瑞K50" },
+          { "name": "杰虎" },
+          { "name": "优优" },
+          { "name": "杰虎" }
+        ]
+      },
+      { "name": "WALD", "sub": [{ "name": "WALD V-Class" }] },
+      {
+        "name": "曙光汽车",
+        "sub": [
+          { "name": "黄海·大牛" },
+          { "name": "黄海N1" },
+          { "name": "黄海N3" },
+          { "name": "黄海N7" },
+          { "name": "黄海N2" },
+          { "name": "黄海·野牛" },
+          { "name": "旗胜V3" },
+          { "name": "旗胜F1" },
+          { "name": "挑战者SUV" },
+          { "name": "翱龙CUV" },
+          { "name": "大柴神" },
+          { "name": "小柴神" },
+          { "name": "傲骏" },
+          { "name": "黄海·大牛" },
+          { "name": "黄海N1" },
+          { "name": "黄海N3" },
+          { "name": "黄海N7" },
+          { "name": "黄海N2" },
+          { "name": "瑞途" },
+          { "name": "黄海·野牛" },
+          { "name": "旗胜F1" },
+          { "name": "挑战者SUV" },
+          { "name": "翱龙CUV" },
+          { "name": "大柴神" },
+          { "name": "小柴神" },
+          { "name": "傲骏" }
+        ]
+      },
+      {
+        "name": "庆铃汽车",
+        "sub": [
+          { "name": "TAGA达咖H" },
+          { "name": "TAGA达咖" },
+          { "name": "五十铃皮卡" },
+          { "name": "TAGA达咖H" },
+          { "name": "TAGA达咖" },
+          { "name": "五十铃皮卡" },
+          { "name": "竞技者" }
+        ]
+      },
+      {
+        "name": "大运汽车",
+        "sub": [{ "name": "大运皮卡" }, { "name": "大运皮卡" }]
+      },
+      { "name": "车驰汽车", "sub": [{ "name": "车驰V-Class" }] },
+      { "name": "晓奥汽车", "sub": [{ "name": "晓奥V-Class" }] },
+      { "name": "南京汽车改装厂", "sub": [{ "name": "上喆V-Class" }] },
+      {
+        "name": "大乘汽车",
+        "sub": [
+          { "name": "大乘G60S" },
+          { "name": "大乘G60" },
+          { "name": "大乘G70S" }
+        ]
+      },
+      {
+        "name": "厦门金龙",
+        "sub": [
+          { "name": "凯锐浩克" },
+          { "name": "金威" },
+          { "name": "凯歌" },
+          { "name": "凯特" },
+          { "name": "凯歌" }
+        ]
+      },
+      { "name": "龙程汽车", "sub": [{ "name": "龙程V-Class" }] },
+      { "name": "吉利远程", "sub": [{ "name": "远程FX" }] },
+      {
+        "name": "福迪汽车",
+        "sub": [
+          { "name": "雄师F22" },
+          { "name": "雄师F16" },
+          { "name": "小超人" },
+          { "name": "探索者6" },
+          { "name": "探索者Ⅱ" },
+          { "name": "探索者Ⅲ" },
+          { "name": "揽福" },
+          { "name": "雄师F22" },
+          { "name": "雄师F16" },
+          { "name": "小超人" },
+          { "name": "探索者6" },
+          { "name": "探索者Ⅲ" },
+          { "name": "雄狮" },
+          { "name": "揽福" }
+        ]
+      },
+      {
+        "name": "福汽新龙马",
+        "sub": [
+          { "name": "启腾EX80" },
+          { "name": "启腾M70" },
+          { "name": "启腾N50" },
+          { "name": "启腾N30" },
+          { "name": "启腾V60" }
+        ]
+      },
+      { "name": "金冠汽车", "sub": [{ "name": "金冠奔驰V-Class" }] },
+      {
+        "name": "厦门金旅",
+        "sub": [
+          { "name": "金旅海狮" },
+          { "name": "金旅大海狮" },
+          { "name": "海狮Z系列" },
+          { "name": "新时代海狮" },
+          { "name": "金旅考斯特" },
+          { "name": "金旅大海狮" },
+          { "name": "海狮Z系列" },
+          { "name": "领特" },
+          { "name": "金旅考斯特" }
+        ]
+      },
+      {
+        "name": "骐铃汽车",
+        "sub": [
+          { "name": "骐铃T100" },
+          { "name": "骐铃T7" },
+          { "name": "骐铃T3" },
+          { "name": "骐铃T5" },
+          { "name": "骐铃T100" },
+          { "name": "骐铃T7" },
+          { "name": "骐铃T3" },
+          { "name": "骐铃T5" }
+        ]
+      },
+      {
+        "name": "成功汽车",
+        "sub": [
+          { "name": "成功V2" },
+          { "name": "成功K2" },
+          { "name": "成功K4" },
+          { "name": "成功K3" },
+          { "name": "成功K32" },
+          { "name": "成功K1" },
+          { "name": "成功V1" },
+          { "name": "成功X1" }
+        ]
+      },
+      {
+        "name": "绵阳金杯",
+        "sub": [
+          { "name": "金典" },
+          { "name": "大力神K5" },
+          { "name": "西部牛仔" },
+          { "name": "智尚S35" },
+          { "name": "大力神" },
+          { "name": "雷龙" },
+          { "name": "智尚S30" },
+          { "name": "金杯S70" },
+          { "name": "小金牛" },
+          { "name": "大力神K5" },
+          { "name": "大力神" }
+        ]
+      },
+      {
+        "name": "奇瑞万达客车",
+        "sub": [
+          { "name": "威麟H6" },
+          { "name": "威麟H3" },
+          { "name": "威麟H5" },
+          { "name": "威麟H6" },
+          { "name": "威麟H5" }
+        ]
+      },
+      {
+        "name": "苏州金龙",
+        "sub": [
+          { "name": "龙威" },
+          { "name": "海格H5C" },
+          { "name": "御骏" },
+          { "name": "海格H6C" },
+          { "name": "海格H7V" },
+          { "name": "龙威" },
+          { "name": "海格H5C" },
+          { "name": "御骏" },
+          { "name": "海格H5V" },
+          { "name": "海格H6C" }
+        ]
+      },
+      {
+        "name": "明君汽车",
+        "sub": [{ "name": "华凯皮卡" }, { "name": "华凯皮卡" }]
+      },
+      {
+        "name": "道奇(进口)",
+        "sub": [
+          { "name": "挑战者" },
+          { "name": "酷威" },
+          { "name": "酷搏" },
+          { "name": "锋哲" },
+          { "name": "酷威" }
+        ]
+      },
+      {
+        "name": "日产(进口)",
+        "sub": [
+          { "name": "途乐" },
+          { "name": "日产GT-R" },
+          { "name": "日产370Z" },
+          { "name": "风雅" },
+          { "name": "贵士" },
+          { "name": "CIMA" },
+          { "name": "风度" },
+          { "name": "奇骏(进口)" },
+          { "name": "日产350Z" },
+          { "name": "碧莲" }
+        ]
+      },
+      {
+        "name": "起亚(进口)",
+        "sub": [
+          { "name": "嘉华(进口)" },
+          { "name": "斯汀格" },
+          { "name": "欧菲莱斯" },
+          { "name": "佳乐" },
+          { "name": "起亚VQ" },
+          { "name": "速迈" },
+          { "name": "嘉华(进口)" },
+          { "name": "起亚VQ" }
+        ]
+      },
+      {
+        "name": "雪佛兰(进口)",
+        "sub": [
+          { "name": "科迈罗" },
+          { "name": "索罗德" },
+          { "name": "库罗德" }
+        ]
+      },
+      {
+        "name": "凯迪拉克(进口)",
+        "sub": [
+          { "name": "凯雷德ESCALADE" },
+          { "name": "凯迪拉克XLR" },
+          { "name": "凯迪拉克SRX" },
+          { "name": "凯迪拉克ATS(进口)" },
+          { "name": "DeVille" },
+          { "name": "凯迪拉克STS" },
+          { "name": "凯迪拉克CT4(海外)" },
+          { "name": "凯雷德ESCALADE" }
+        ]
+      },
+      {
+        "name": "铃木(进口)",
+        "sub": [
+          { "name": "吉姆尼(进口)" },
+          { "name": "英格尼斯" },
+          { "name": "超级维特拉" },
+          { "name": "凯泽西" }
+        ]
+      },
+      {
+        "name": "讴歌(进口)",
+        "sub": [
+          { "name": "讴歌MDX" },
+          { "name": "讴歌TLX" },
+          { "name": "讴歌RDX(进口)" },
+          { "name": "讴歌TL" },
+          { "name": "讴歌RL" },
+          { "name": "讴歌ZDX" },
+          { "name": "讴歌MDX" },
+          { "name": "讴歌NSX" }
+        ]
+      },
+      {
+        "name": "巴博斯",
+        "sub": [
+          { "name": "巴博斯 S级" },
+          { "name": "巴博斯 smart fortwo" },
+          { "name": "巴博斯 CLS级" },
+          { "name": "巴博斯 SLK级" },
+          { "name": "巴博斯 M级" },
+          { "name": "巴博斯 smart forfour" },
+          { "name": "巴博斯 S级" }
+        ]
+      },
+      {
+        "name": "GMC",
+        "sub": [{ "name": "YUKON" }, { "name": "SIERRA" }, { "name": "SAVANA" }]
+      },
+      {
+        "name": "DS(进口)",
+        "sub": [{ "name": "DS 4" }, { "name": "DS 5(进口)" }]
+      },
+      {
+        "name": "雷克萨斯F",
+        "sub": [{ "name": "雷克萨斯RC F" }, { "name": "雷克萨斯LFA" }]
+      },
+      {
+        "name": "克莱斯勒(进口)",
+        "sub": [
+          { "name": "大捷龙(进口)" },
+          { "name": "PT 漫步者" },
+          { "name": "交叉火力" },
+          { "name": "克莱斯勒300C(进口)" }
+        ]
+      },
+      { "name": "KTM", "sub": [{ "name": "X-BOW" }] },
+      {
+        "name": "标致(进口)",
+        "sub": [
+          { "name": "标致3008(进口)" },
+          { "name": "标致307(进口)" },
+          { "name": "标致206(进口)" },
+          { "name": "标致407" },
+          { "name": "标致607" },
+          { "name": "标致207(进口)" },
+          { "name": "标致RCZ" },
+          { "name": "标致4008(进口)" }
+        ]
+      },
+      {
+        "name": "摩根",
+        "sub": [
+          { "name": "3 Wheeler" },
+          { "name": "摩根Aero" },
+          { "name": "摩根Plus 8" },
+          { "name": "摩根Plus 4" },
+          { "name": "摩根Roadster" },
+          { "name": "摩根4-4" },
+          { "name": "摩根Aero 8" }
+        ]
+      },
+      { "name": "ALPINA", "sub": [{ "name": "ALPINA B4" }] },
+      {
+        "name": "雪铁龙(进口)",
+        "sub": [
+          { "name": "C4 PICASSO" },
+          { "name": "雪铁龙C6(进口)" },
+          { "name": "雪铁龙C5(进口)" },
+          { "name": "雪铁龙C4 Aircross(进口)" }
+        ]
+      },
+      {
+        "name": "马自达(进口)",
+        "sub": [
+          { "name": "马自达CX-3" },
+          { "name": "马自达RX-8" },
+          { "name": "马自达8(进口)" },
+          { "name": "马自达5" },
+          { "name": "马自达CX-7(进口)" },
+          { "name": "ATENZA" }
+        ]
+      },
+      {
+        "name": "雷诺(进口)",
+        "sub": [
+          { "name": "Espace" },
+          { "name": "拉古那" },
+          { "name": "威赛帝" },
+          { "name": "风朗" },
+          { "name": "纬度" }
+        ]
+      },
+      {
+        "name": "双龙汽车",
+        "sub": [
+          { "name": "雷斯特" },
+          { "name": "爱腾" },
+          { "name": "享御" },
+          { "name": "主席" },
+          { "name": "途凌" },
+          { "name": "雷斯特" },
+          { "name": "爱腾" },
+          { "name": "享御" },
+          { "name": "雷斯特W" },
+          { "name": "途凌" }
+        ]
+      },
+      {
+        "name": "华普汽车",
+        "sub": [
+          { "name": "海悦" },
+          { "name": "华普海景" },
+          { "name": "海域" },
+          { "name": "海尚" },
+          { "name": "海迅" },
+          { "name": "海炫" },
+          { "name": "海锋" }
+        ]
+      },
+      {
+        "name": "斯柯达(进口)",
+        "sub": [{ "name": "Yeti(进口)" }, { "name": "速尊" }]
+      },
+      {
+        "name": "众泰汽车",
+        "sub": [
+          { "name": "众泰Z100" },
+          { "name": "众泰V10" },
+          { "name": "众泰SR9" },
+          { "name": "众泰SR7" },
+          { "name": "众泰2008" },
+          { "name": "众泰5008" },
+          { "name": "众泰M300" },
+          { "name": "大迈X5" },
+          { "name": "众泰Z200" },
+          { "name": "众泰Z200HB" },
+          { "name": "江南TT" },
+          { "name": "众泰T300" },
+          { "name": "众泰T200" },
+          { "name": "众泰Z300" },
+          { "name": "众泰Z500" },
+          { "name": "众泰Z700" },
+          { "name": "众泰T700" },
+          { "name": "大迈X7" },
+          { "name": "众泰Z560" },
+          { "name": "众泰Z360" },
+          { "name": "众泰T600 Coupe" },
+          { "name": "众泰T500" },
+          { "name": "众泰T800" }
+        ]
+      },
+      {
+        "name": "卡尔森",
+        "sub": [
+          { "name": "卡尔森 GL级" },
+          { "name": "卡尔森 S级" },
+          { "name": "卡尔森 CCA22" }
+        ]
+      },
+      {
+        "name": "力帆汽车",
+        "sub": [
+          { "name": "力帆530" },
+          { "name": "力帆520" },
+          { "name": "福顺" },
+          { "name": "力帆620" },
+          { "name": "力帆320" },
+          { "name": "力帆X60" },
+          { "name": "力帆720" },
+          { "name": "兴顺" },
+          { "name": "丰顺" },
+          { "name": "力帆820" },
+          { "name": "力帆330" },
+          { "name": "力帆630" },
+          { "name": "力帆X50" },
+          { "name": "力帆T11" },
+          { "name": "力帆T21" },
+          { "name": "乐途" },
+          { "name": "力帆X80" },
+          { "name": "迈威" },
+          { "name": "轩朗" }
+        ]
+      },
+      {
+        "name": "smart",
+        "sub": [
+          { "name": "smart forjeremy" },
+          { "name": "smart fortwo" },
+          { "name": "smart forfour" }
+        ]
+      },
+      {
+        "name": "哈飞汽车",
+        "sub": [
+          { "name": "中意V5" },
+          { "name": "赛豹III" },
+          { "name": "赛豹V" },
+          { "name": "路宝" },
+          { "name": "赛马" },
+          { "name": "骏意" },
+          { "name": "民意" },
+          { "name": "哈飞小霸王" },
+          { "name": "路尊大霸王" },
+          { "name": "民意微卡" }
+        ]
+      },
+      {
+        "name": "东风裕隆",
+        "sub": [
+          { "name": "大7 MPV" },
+          { "name": "纳智捷URX" },
+          { "name": "大7 SUV" },
+          { "name": "MASTER CEO" },
+          { "name": "纳5" },
+          { "name": "优6 SUV" },
+          { "name": "锐3" },
+          { "name": "U5 SUV" }
+        ]
+      },
+      {
+        "name": "华泰汽车",
+        "sub": [
+          { "name": "圣达菲经典" },
+          { "name": "特拉卡" },
+          { "name": "华泰B11" },
+          { "name": "路盛E70" },
+          { "name": "宝利格" },
+          { "name": "路盛E80" },
+          { "name": "圣达菲" },
+          { "name": "圣达菲7" },
+          { "name": "圣达菲5" },
+          { "name": "圣达菲经典" },
+          { "name": "特拉卡" },
+          { "name": "华泰B11" },
+          { "name": "路盛E70" },
+          { "name": "宝利格" },
+          { "name": "路盛E80" },
+          { "name": "圣达菲" }
+        ]
+      },
+      {
+        "name": "长安铃木",
+        "sub": [
+          { "name": "骁途" },
+          { "name": "羚羊" },
+          { "name": "雨燕" },
+          { "name": "天语 SX4" },
+          { "name": "奥拓" },
+          { "name": "天语 尚悦" },
+          { "name": "锋驭" },
+          { "name": "启悦" },
+          { "name": "维特拉" }
+        ]
+      },
+      {
+        "name": "南京菲亚特",
+        "sub": [
+          { "name": "派力奥" },
+          { "name": "西耶那" },
+          { "name": "周末风" },
+          { "name": "派朗" }
+        ]
+      },
+      {
+        "name": "天津一汽",
+        "sub": [
+          { "name": "夏利" },
+          { "name": "威志" },
+          { "name": "威姿" },
+          { "name": "威乐" },
+          { "name": "骏派A70" },
+          { "name": "夏利N5" },
+          { "name": "威志V2" },
+          { "name": "威志V5" },
+          { "name": "夏利N7" },
+          { "name": "骏派D60" },
+          { "name": "骏派A50" },
+          { "name": "骏派CX65" },
+          { "name": "骏派D80" }
+        ]
+      },
+      {
+        "name": "北京吉普",
+        "sub": [
+          { "name": "北京JEEP" },
+          { "name": "大切诺基" },
+          { "name": "帕杰罗速跑" },
+          { "name": "欧蓝德经典" }
+        ]
+      },
+      { "name": "悍马", "sub": [{ "name": "悍马H3" }, { "name": "悍马H2" }] },
+      {
+        "name": "昌河铃木",
+        "sub": [
+          { "name": "利亚纳" },
+          { "name": "北斗星" },
+          { "name": "派喜" },
+          { "name": "浪迪" },
+          { "name": "利亚纳A6" },
+          { "name": "北斗星X5" }
+        ]
+      },
+      {
+        "name": "长安沃尔沃",
+        "sub": [{ "name": "沃尔沃S40" }, { "name": "沃尔沃S80L" }]
+      },
+      {
+        "name": "罗夫哈特",
+        "sub": [{ "name": "罗夫哈特MR500" }, { "name": "罗夫哈特GR500" }]
+      },
+      {
+        "name": "东风雷诺",
+        "sub": [
+          { "name": "科雷缤" },
+          { "name": "科雷嘉" },
+          { "name": "科雷傲" }
+        ]
+      },
+      { "name": "汉龙汽车", "sub": [{ "name": "旷世" }] },
+      {
+        "name": "SHELBY",
+        "sub": [{ "name": "SHELBY F-150" }, { "name": "SHELBY GTE" }]
+      },
+      {
+        "name": "星驰汽车",
+        "sub": [
+          { "name": "铂驰VC系列" },
+          { "name": "铂驰NV系列" },
+          { "name": "铂驰T系列" }
+        ]
+      },
+      {
+        "name": "欧宝",
+        "sub": [{ "name": "威达" }, { "name": "安德拉" }, { "name": "麦瑞纳" }]
+      },
+      {
+        "name": "萨博",
+        "sub": [{ "name": "Saab 9-5" }, { "name": "Saab 9-3" }]
+      },
+      {
+        "name": "本田(进口)",
+        "sub": [
+          { "name": "时韵" },
+          { "name": "思域(海外)" },
+          { "name": "本田CR-Z" }
+        ]
+      },
+      {
+        "name": "双环汽车",
+        "sub": [
+          { "name": "双环SCEO" },
+          { "name": "小贵族" },
+          { "name": "来宝SRV" },
+          { "name": "双环SCEO" }
+        ]
+      },
+      { "name": "迈巴赫", "sub": [{ "name": "迈巴赫" }] },
+      { "name": "布加迪", "sub": [{ "name": "威航" }] },
+      {
+        "name": "永源汽车",
+        "sub": [
+          { "name": "永源A380" },
+          { "name": "永源五星" },
+          { "name": "猎鹰" }
+        ]
+      },
+      {
+        "name": "北京克莱斯勒",
+        "sub": [{ "name": "克莱斯勒300C" }, { "name": "铂锐" }]
+      },
+      {
+        "name": "菲亚特(进口)",
+        "sub": [
+          { "name": "博悦" },
+          { "name": "朋多" },
+          { "name": "领雅" },
+          { "name": "菲跃" }
+        ]
+      },
+      {
+        "name": "猎豹汽车",
+        "sub": [
+          { "name": "骐菱" },
+          { "name": "猎豹CS6" },
+          { "name": "飞腾" },
+          { "name": "猎豹CS7" },
+          { "name": "黑金刚" },
+          { "name": "猎豹6481" },
+          { "name": "飞铃" },
+          { "name": "飞扬" },
+          { "name": "猎豹CT5" },
+          { "name": "飞腾C5" },
+          { "name": "猎豹Q6" },
+          { "name": "猎豹CS10" },
+          { "name": "猎豹CS9" },
+          { "name": "猎豹CT7" },
+          { "name": "Mattu" },
+          { "name": "猎豹CS6" },
+          { "name": "黑金刚" },
+          { "name": "飞铃" },
+          { "name": "飞扬" },
+          { "name": "猎豹CT5" },
+          { "name": "猎豹CT7" }
+        ]
+      },
+      {
+        "name": "莲花汽车",
+        "sub": [
+          { "name": "竞速" },
+          { "name": "竞悦" },
+          { "name": "莲花L3" },
+          { "name": "莲花L5" },
+          { "name": "莲花T5" }
+        ]
+      },
+      { "name": "世爵", "sub": [{ "name": "世爵C8" }, { "name": "世爵D12" }] },
+      {
+        "name": "广汽吉奥",
+        "sub": [
+          { "name": "广汽吉奥GP150" },
+          { "name": "财运100" },
+          { "name": "帅驰" },
+          { "name": "帅威" },
+          { "name": "帅舰" },
+          { "name": "凯睿" },
+          { "name": "吉奥凯旋" },
+          { "name": "帅豹" },
+          { "name": "奥轩G3" },
+          { "name": "奥轩G5" },
+          { "name": "星旺" },
+          { "name": "财运500" },
+          { "name": "财运300" },
+          { "name": "奥轩GX5" },
+          { "name": "星旺CL" },
+          { "name": "星朗" },
+          { "name": "星旺M1" },
+          { "name": "星旺M2" },
+          { "name": "星旺L" },
+          { "name": "E美" },
+          { "name": "广汽吉奥GX6" },
+          { "name": "广汽吉奥GP150" },
+          { "name": "财运100" },
+          { "name": "帅舰" },
+          { "name": "奥轩G5" },
+          { "name": "财运500" },
+          { "name": "财运300" },
+          { "name": "奥轩GX5" }
+        ]
+      },
+      {
+        "name": "赛麟(进口)",
+        "sub": [{ "name": "赛麟Mustang" }, { "name": "赛麟科迈罗" }]
+      },
+      {
+        "name": "威兹曼",
+        "sub": [{ "name": "威兹曼GT" }, { "name": "威兹曼Roadster" }]
+      },
+      {
+        "name": "科尼赛克",
+        "sub": [
+          { "name": "科尼赛克CCX" },
+          { "name": "科尼赛克CCXR" },
+          { "name": "Agera" }
+        ]
+      },
+      {
+        "name": "广汽中兴",
+        "sub": [{ "name": "中兴C3" }, { "name": "中兴GX3" }]
+      },
+      { "name": "光冈自动车", "sub": [{ "name": "大蛇" }, { "name": "嘉路" }] },
+      {
+        "name": "AC Schnitzer",
+        "sub": [
+          { "name": "AC Schnitzer X5" },
+          { "name": "AC Schnitzer M3" },
+          { "name": "AC Schnitzer X6" }
+        ]
+      },
+      {
+        "name": "Lorinser",
+        "sub": [{ "name": "Lorinser S级" }, { "name": "Lorinser M级" }]
+      },
+      { "name": "西雅特", "sub": [{ "name": "欧悦搏" }] },
+      { "name": "一汽欧朗", "sub": [{ "name": "欧朗" }] },
+      { "name": "陕汽通家", "sub": [{ "name": "福家" }, { "name": "龙锐" }] },
+      { "name": "一汽通用", "sub": [{ "name": "坤程" }, { "name": "坤程" }] },
+      {
+        "name": "恒天汽车",
+        "sub": [
+          { "name": "途腾T1" },
+          { "name": "途腾T2" },
+          { "name": "途腾T3" },
+          { "name": "途腾T1" },
+          { "name": "途腾T2" },
+          { "name": "途腾T3" }
+        ]
+      },
+      {
+        "name": "广汽菲克菲亚特",
+        "sub": [{ "name": "菲翔" }, { "name": "致悦" }]
+      },
+      {
+        "name": "如虎",
+        "sub": [{ "name": "如虎 CTR 3" }, { "name": "如虎 XL" }]
+      },
+      {
+        "name": "新凯汽车",
+        "sub": [
+          { "name": "凯胜" },
+          { "name": "新凯威霆" },
+          { "name": "新凯凌特" },
+          { "name": "新凯V-Class" }
+        ]
+      },
+      {
+        "name": "北汽银翔",
+        "sub": [
+          { "name": "北汽幻速S2" },
+          { "name": "北汽幻速S3" },
+          { "name": "北汽幻速S6" },
+          { "name": "北汽幻速H2" },
+          { "name": "北汽幻速H6" },
+          { "name": "北汽幻速H3" },
+          { "name": "北汽幻速H2V" },
+          { "name": "北汽幻速S5" },
+          { "name": "北汽幻速H5" },
+          { "name": "北汽幻速S7" }
+        ]
+      },
+      {
+        "name": "卡威汽车",
+        "sub": [
+          { "name": "卡威K1" },
+          { "name": "卡威SUV" },
+          { "name": "卡威W1" },
+          { "name": "卡威K150" },
+          { "name": "卡威K150GT" },
+          { "name": "路易斯" },
+          { "name": "卡威K1" },
+          { "name": "卡威K150" },
+          { "name": "卡威K150GT" }
+        ]
+      },
+      {
+        "name": "泰卡特",
+        "sub": [
+          { "name": "泰卡特 T1" },
+          { "name": "泰卡特 T2" },
+          { "name": "泰卡特 T3" },
+          { "name": "泰卡特 T7" },
+          { "name": "泰卡特 T9" },
+          { "name": "泰卡特 T7" },
+          { "name": "泰卡特 T7" }
+        ]
+      },
+      { "name": "华晨华颂", "sub": [{ "name": "华颂7" }] },
+      { "name": "乔治·巴顿", "sub": [{ "name": "战车" }, { "name": "战剑" }] },
+      {
+        "name": "浙江卡尔森",
+        "sub": [
+          { "name": "卡升威霆" },
+          { "name": "卡升C10" },
+          { "name": "卡升T6" },
+          { "name": "卡升V-Class" }
+        ]
+      },
+      {
+        "name": "斯达泰克",
+        "sub": [
+          { "name": "斯达泰克-揽胜" },
+          { "name": "斯达泰克-揽胜运动版" },
+          { "name": "斯达泰克-揽胜" },
+          { "name": "斯达泰克-揽胜运动版" },
+          { "name": "斯达泰克-卫士" }
+        ]
+      },
+      { "name": "LOCAL MOTORS", "sub": [{ "name": "RALLY FIGHTER" }] },
+      {
+        "name": "比速汽车",
+        "sub": [
+          { "name": "比速T3" },
+          { "name": "比速M3" },
+          { "name": "比速T5" }
+        ]
+      },
+      { "name": "北汽瑞丽", "sub": [{ "name": "道达V8" }] },
+      {
+        "name": "君马汽车",
+        "sub": [
+          { "name": "君马S70" },
+          { "name": "君马MEET 3(美图3)" },
+          { "name": "君马SEEK 5(赛克5)" }
+        ]
+      },
+      { "name": "云雀汽车", "sub": [{ "name": "全界Q1" }] },
+      { "name": "帕加尼", "sub": [{ "name": "Zonda" }] },
+      { "name": "SRT", "sub": [{ "name": "蝰蛇" }] },
+      {
+        "name": "安凯客车",
+        "sub": [{ "name": "宝斯通" }, { "name": "宝斯通" }]
+      },
+      {
+        "name": "南京依维柯",
+        "sub": [
+          { "name": "依维柯欧胜" },
+          { "name": "依维柯得意" },
+          { "name": "依维柯Ouba" },
+          { "name": "依维柯威尼斯之旅" },
+          { "name": "都灵" },
+          { "name": "依维柯褒迪" }
+        ]
+      },
+      { "name": "一汽红塔", "sub": [{ "name": "蓝舰T340" }] },
+      { "name": "一汽凌源", "sub": [{ "name": "雷神" }] },
+      { "name": "四川现代", "sub": [{ "name": "康恩迪" }] },
+      { "name": "塔塔", "sub": [{ "name": "Xenon" }] },
+      { "name": "Fisker", "sub": [{ "name": "Karma" }] }
+    ]
+  },
+  {
+    "name": "纯电动车",
+    "sub": [
+      {
+        "name": "上汽通用五菱",
+        "sub": [
+          { "name": "宏光MINIEV" },
+          { "name": "新宝骏E300" },
+          { "name": "宝骏E100" },
+          { "name": "宝骏E200" },
+          { "name": "五菱荣光EV" }
+        ]
+      },
+      {
+        "name": "比亚迪",
+        "sub": [
+          { "name": "秦PLUS" },
+          { "name": "汉" },
+          { "name": "宋PLUS新能源" },
+          { "name": "唐新能源" },
+          { "name": "秦Pro新能源" },
+          { "name": "比亚迪e2" },
+          { "name": "宋Pro新能源" },
+          { "name": "秦新能源" },
+          { "name": "比亚迪e9" },
+          { "name": "元新能源" },
+          { "name": "元Pro" },
+          { "name": "比亚迪e1" },
+          { "name": "比亚迪e3" },
+          { "name": "比亚迪e6" },
+          { "name": "比亚迪e5" },
+          { "name": "比亚迪S2" },
+          { "name": "宋新能源" }
+        ]
+      },
+      {
+        "name": "特斯拉",
+        "sub": [{ "name": "Model 3" }, { "name": "Model Y" }]
+      },
+      {
+        "name": "上汽大众",
+        "sub": [
+          { "name": "ID.4 X" },
+          { "name": "朗逸新能源" },
+          { "name": "途岳新能源" }
+        ]
+      },
+      {
+        "name": "小鹏汽车",
+        "sub": [{ "name": "小鹏汽车P7" }, { "name": "小鹏汽车G3" }]
+      },
+      {
+        "name": "一汽红旗",
+        "sub": [{ "name": "红旗E-HS9" }, { "name": "红旗E-HS3" }]
+      },
+      {
+        "name": "长城汽车",
+        "sub": [
+          { "name": "欧拉黑猫" },
+          { "name": "欧拉好猫" },
+          { "name": "欧拉白猫" },
+          { "name": "欧拉iQ" },
+          { "name": "炮新能源" },
+          { "name": "风骏7EV" },
+          { "name": "长城C30新能源" }
+        ]
+      },
+      {
+        "name": "一汽-大众",
+        "sub": [
+          { "name": "ID.4 CROZZ" },
+          { "name": "高尔夫·纯电" },
+          { "name": "宝来·纯电" }
+        ]
+      },
+      {
+        "name": "蔚来",
+        "sub": [
+          { "name": "蔚来ES6" },
+          { "name": "蔚来ES8" },
+          { "name": "蔚来EC6" },
+          { "name": "蔚来ET7" },
+          { "name": "蔚来EP9" }
+        ]
+      },
+      { "name": "华人运通", "sub": [{ "name": "高合HiPhi X" }] },
+      { "name": "华晨宝马", "sub": [{ "name": "宝马iX3" }] },
+      {
+        "name": "奇瑞新能源",
+        "sub": [
+          { "name": "小蚂蚁" },
+          { "name": "大蚂蚁" },
+          { "name": "瑞虎e" },
+          { "name": "艾瑞泽e" },
+          { "name": "瑞虎3xe" },
+          { "name": "捷途X70S EV" },
+          { "name": "艾瑞泽5e" },
+          { "name": "奇瑞eQ" },
+          { "name": "奇瑞QQ3EV" }
+        ]
+      },
+      {
+        "name": "长安汽车",
+        "sub": [
+          { "name": "奔奔E-Star" },
+          { "name": "奔奔EV" },
+          { "name": "逸动新能源" },
+          { "name": "长安欧尚X7新能源" },
+          { "name": "长安E-Pro" },
+          { "name": "长安CS55新能源" },
+          { "name": "尼欧Ⅱ" },
+          { "name": "逸动ET" },
+          { "name": "长安CS15EV" },
+          { "name": "长安欧尚A600新能源" },
+          { "name": "欧尚长行EV" },
+          { "name": "长安欧尚科尚EV" },
+          { "name": "奔奔mini-e" },
+          { "name": "欧力威EV" }
+        ]
+      },
+      { "name": "保时捷", "sub": [{ "name": "Taycan" }] },
+      {
+        "name": "特斯拉(进口)",
+        "sub": [
+          { "name": "Model S" },
+          { "name": "Model X" },
+          { "name": "Model 3(进口)" }
+        ]
+      },
+      { "name": "北京奔驰", "sub": [{ "name": "奔驰EQC" }] },
+      {
+        "name": "江汽集团",
+        "sub": [{ "name": "思皓E10X" }, { "name": "思皓E40X" }]
+      },
+      {
+        "name": "一汽-大众奥迪",
+        "sub": [{ "name": "奥迪e-tron" }, { "name": "奥迪Q2L新能源" }]
+      },
+      {
+        "name": "广汽埃安",
+        "sub": [
+          { "name": "Aion S(埃安S)" },
+          { "name": "Aion Y(埃安Y)" },
+          { "name": "Aion V(埃安V)" },
+          { "name": "Aion LX(埃安LX)" },
+          { "name": "传祺GE3" }
+        ]
+      },
+      { "name": "奥迪(进口)", "sub": [{ "name": "奥迪e-tron(进口)" }] },
+      {
+        "name": "合众新能源",
+        "sub": [{ "name": "哪吒V" }, { "name": "哪吒U" }, { "name": "哪吒N01" }]
+      },
+      {
+        "name": "零跑汽车",
+        "sub": [
+          { "name": "零跑T03" },
+          { "name": "零跑C11" },
+          { "name": "零跑S01" }
+        ]
+      },
+      {
+        "name": "上汽集团",
+        "sub": [
+          { "name": "科莱威CLEVER" },
+          { "name": "MARVEL-R" },
+          { "name": "荣威Ei5" },
+          { "name": "荣威RX5新能源" },
+          { "name": "R汽车 ER6" },
+          { "name": "荣威MARVEL X" },
+          { "name": "名爵EZS纯电动" },
+          { "name": "荣威e50" }
+        ]
+      },
+      { "name": "岚图汽车", "sub": [{ "name": "岚图FREE" }] },
+      {
+        "name": "北汽新能源",
+        "sub": [
+          { "name": "ARCFOX αT" },
+          { "name": "北汽新能源EC3" },
+          { "name": "北汽新能源EC5" },
+          { "name": "LITE" },
+          { "name": "北汽新能源EU" },
+          { "name": "北汽新能源EV" },
+          { "name": "北汽新能源ES210" },
+          { "name": "北汽新能源EX" },
+          { "name": "北汽新能源EH" },
+          { "name": "北汽新能源EC" }
+        ]
+      },
+      {
+        "name": "上汽通用别克",
+        "sub": [{ "name": "微蓝6" }, { "name": "微蓝7" }]
+      },
+      {
+        "name": "威马汽车",
+        "sub": [{ "name": "威马EX5" }, { "name": "威马EX6" }]
+      },
+      { "name": "几何汽车", "sub": [{ "name": "几何A" }, { "name": "几何C" }] },
+      { "name": "极星", "sub": [{ "name": "Polestar 2" }] },
+      { "name": "东风雷诺", "sub": [{ "name": "雷诺 e诺" }] },
+      { "name": "广汽蔚来", "sub": [{ "name": "广汽蔚来007" }] },
+      { "name": "上汽通用雪佛兰", "sub": [{ "name": "畅巡" }] },
+      {
+        "name": "广汽丰田",
+        "sub": [
+          { "name": "丰田C-HR EV" },
+          { "name": "广汽丰田iA5" },
+          { "name": "广汽ix4" }
+        ]
+      },
+      { "name": "捷豹", "sub": [{ "name": "捷豹I-PACE" }] },
+      {
+        "name": "北京现代",
+        "sub": [
+          { "name": "名图新能源" },
+          { "name": "菲斯塔新能源" },
+          { "name": "昂希诺新能源" },
+          { "name": "伊兰特EV" }
+        ]
+      },
+      { "name": "沃尔沃亚太", "sub": [{ "name": "沃尔沃XC40新能源" }] },
+      { "name": "雷克萨斯", "sub": [{ "name": "雷克萨斯UX新能源" }] },
+      {
+        "name": "御捷新能源",
+        "sub": [
+          { "name": "朋克美美" },
+          { "name": "朋克多多" },
+          { "name": "御捷E驰" }
+        ]
+      },
+      { "name": "东风日产", "sub": [{ "name": "轩逸·纯电" }] },
+      {
+        "name": "广汽本田",
+        "sub": [{ "name": "绎乐" }, { "name": "广汽本田VE-1" }]
+      },
+      {
+        "name": "东风汽车",
+        "sub": [
+          { "name": "东风新能源EX1" },
+          { "name": "俊风E11K" },
+          { "name": "俊风ER30" },
+          { "name": "御风EV" },
+          { "name": "俊风E17" }
+        ]
+      },
+      {
+        "name": "吉利新能源",
+        "sub": [{ "name": "帝豪GSe" }, { "name": "帝豪新能源" }]
+      },
+      { "name": "腾势汽车", "sub": [{ "name": "腾势X" }, { "name": "腾势" }] },
+      { "name": "大众(进口)", "sub": [{ "name": "高尔夫新能源(进口)" }] },
+      {
+        "name": "上汽大通",
+        "sub": [
+          { "name": "EUNIQ 5" },
+          { "name": "EG10" },
+          { "name": "EV90" },
+          { "name": "EUNIQ 6" },
+          { "name": "V80新能源" },
+          { "name": "EV30" },
+          { "name": "T70新能源" },
+          { "name": "T90新能源" }
+        ]
+      },
+      { "name": "一汽丰田", "sub": [{ "name": "奕泽IZOA E进擎" }] },
+      { "name": "江铃福特", "sub": [{ "name": "领界新能源" }] },
+      {
+        "name": "东风本田",
+        "sub": [{ "name": "思铭X-NV" }, { "name": "东风本田M-NV" }]
+      },
+      { "name": "爱驰汽车", "sub": [{ "name": "爱驰U5" }] },
+      {
+        "name": "BEIJING汽车",
+        "sub": [
+          { "name": "BEIJING EU5" },
+          { "name": "BEIJING EU7" },
+          { "name": "BEIJING EX3" },
+          { "name": "BEIJING EX5" },
+          { "name": "北汽威旺306" }
+        ]
+      },
+      {
+        "name": "北京汽车制造厂",
+        "sub": [
+          { "name": "北汽大猫" },
+          { "name": "北汽小猫" },
+          { "name": "北汽小河马" }
+        ]
+      },
+      {
+        "name": "枫叶汽车",
+        "sub": [{ "name": "枫叶80V" }, { "name": "枫叶30X" }]
+      },
+      { "name": "五菱工业", "sub": [{ "name": "五菱EV50" }] },
+      {
+        "name": "东风启辰",
+        "sub": [
+          { "name": "启辰D60新能源" },
+          { "name": "启辰e30" },
+          { "name": "启辰T60新能源" },
+          { "name": "晨风" }
+        ]
+      },
+      {
+        "name": "江淮汽车",
+        "sub": [
+          { "name": "江淮iEV6E" },
+          { "name": "江淮iC5" },
+          { "name": "江淮iEV7" },
+          { "name": "江淮iEVS4" },
+          { "name": "江淮iEV7S" },
+          { "name": "江淮iEVA50" },
+          { "name": "江淮iEV" },
+          { "name": "江淮iEVA60" }
+        ]
+      },
+      {
+        "name": "吉麦新能源",
+        "sub": [{ "name": "凌宝BOX" }, { "name": "凌宝COCO" }]
+      },
+      {
+        "name": "东风风行",
+        "sub": [
+          { "name": "菱智M5EV" },
+          { "name": "风行T1EV" },
+          { "name": "风行S50EV" }
+        ]
+      },
+      {
+        "name": "东风乘用车",
+        "sub": [
+          { "name": "东风风神E70" },
+          { "name": "奕炫新能源" },
+          { "name": "东风风神E30" }
+        ]
+      },
+      {
+        "name": "海马汽车",
+        "sub": [{ "name": "海马爱尚EV" }, { "name": "海马E3" }]
+      },
+      { "name": "东风标致", "sub": [{ "name": "标致e2008" }] },
+      { "name": "大运汽车", "sub": [{ "name": "远志M1" }, { "name": "悦虎" }] },
+      { "name": "天美汽车", "sub": [{ "name": "天美汽车ET5" }] },
+      { "name": "天际汽车", "sub": [{ "name": "天际ME7" }] },
+      {
+        "name": "一汽奔腾",
+        "sub": [
+          { "name": "奔腾E01" },
+          { "name": "奔腾B30EV" },
+          { "name": "奔腾B30" },
+          { "name": "奔腾X40新能源" }
+        ]
+      },
+      {
+        "name": "东风小康",
+        "sub": [
+          { "name": "东风小康EC36" },
+          { "name": "风光E1" },
+          { "name": "风光E3" }
+        ]
+      },
+      {
+        "name": "东风悦达起亚",
+        "sub": [
+          { "name": "起亚K3新能源" },
+          { "name": "起亚KX3新能源" },
+          { "name": "华骐300E" }
+        ]
+      },
+      { "name": "广汽三菱", "sub": [{ "name": "祺智EV" }] },
+      { "name": "比德文汽车", "sub": [{ "name": "比德文E3" }] },
+      {
+        "name": "北汽昌河",
+        "sub": [
+          { "name": "北汽EC100" },
+          { "name": "北汽EV2" },
+          { "name": "北汽EV5" },
+          { "name": "北斗星X5E" }
+        ]
+      },
+      {
+        "name": "雷丁",
+        "sub": [
+          { "name": "雷丁i3" },
+          { "name": "芒果" },
+          { "name": "雷丁i5" },
+          { "name": "雷丁i9" },
+          { "name": "雷丁D50" }
+        ]
+      },
+      { "name": "江淮大众", "sub": [{ "name": "思皓E20X" }] },
+      { "name": "宝沃汽车", "sub": [{ "name": "宝沃BXi7" }] },
+      {
+        "name": "野马汽车",
+        "sub": [
+          { "name": "野马EC60" },
+          { "name": "斯派卡新能源" },
+          { "name": "野马EC70" },
+          { "name": "野马EC30" }
+        ]
+      },
+      {
+        "name": "神龙汽车",
+        "sub": [{ "name": "e爱丽舍" }, { "name": "富康ES500" }]
+      },
+      {
+        "name": "一汽吉林",
+        "sub": [{ "name": "佳宝V80新能源" }, { "name": "森雅R7新能源" }]
+      },
+      {
+        "name": "江铃汽车",
+        "sub": [{ "name": "域虎新能源" }, { "name": "特顺新能源" }]
+      },
+      {
+        "name": "江铃集团新能源",
+        "sub": [
+          { "name": "江铃E200L" },
+          { "name": "易至EV3" },
+          { "name": "江铃E200N" },
+          { "name": "易至EX5" },
+          { "name": "江铃E100B" },
+          { "name": "江铃E160" }
+        ]
+      },
+      { "name": "宏瑞汽车", "sub": [{ "name": "宏瑞小虎" }] },
+      {
+        "name": "长安凯程",
+        "sub": [
+          { "name": "长安之星9新能源" },
+          { "name": "睿行ES30" },
+          { "name": "睿行EM60" },
+          { "name": "睿行EM80" },
+          { "name": "长安星卡新能源" },
+          { "name": "神骐T10新能源" },
+          { "name": "欧诺新能源" }
+        ]
+      },
+      { "name": "南京依维柯", "sub": [{ "name": "依维柯褒迪新能源" }] },
+      { "name": "宇通客车", "sub": [{ "name": "宇通T7新能源" }] },
+      {
+        "name": "飞碟汽车",
+        "sub": [{ "name": "飞碟Q2V" }, { "name": "飞碟Q2T" }]
+      },
+      {
+        "name": "开瑞汽车",
+        "sub": [
+          { "name": "海豚EV" },
+          { "name": "开瑞K60EV" },
+          { "name": "优优EV" },
+          { "name": "优劲EV" },
+          { "name": "开瑞K50EV" }
+        ]
+      },
+      {
+        "name": "云度新能源",
+        "sub": [
+          { "name": "云度π1" },
+          { "name": "云度π3" },
+          { "name": "云度V01L" }
+        ]
+      },
+      {
+        "name": "汉腾汽车",
+        "sub": [{ "name": "幸福e+" }, { "name": "汉腾X5新能源" }]
+      },
+      { "name": "宝骐汽车", "sub": [{ "name": "帅骐" }] },
+      {
+        "name": "成功汽车",
+        "sub": [{ "name": "成功V2E" }, { "name": "成功BEV6" }]
+      },
+      { "name": "东南汽车", "sub": [{ "name": "东南DX3新能源" }] },
+      {
+        "name": "九龙汽车",
+        "sub": [
+          { "name": "九龙A6" },
+          { "name": "九龙EM3" },
+          { "name": "艾菲新能源" }
+        ]
+      },
+      {
+        "name": "瑞驰新能源",
+        "sub": [
+          { "name": "瑞驰新能源EK05" },
+          { "name": "瑞驰新能源EC35" },
+          { "name": "瑞驰新能源EK07S" },
+          { "name": "瑞驰新能源S513" },
+          { "name": "瑞驰新能源EC31" }
+        ]
+      },
+      {
+        "name": "国机智骏",
+        "sub": [
+          { "name": "国机智骏GC1" },
+          { "name": "国机智骏GX5" },
+          { "name": "国机智骏GC2" }
+        ]
+      },
+      {
+        "name": "西安新青年",
+        "sub": [{ "name": "东风·瑞泰特EM10" }, { "name": "东风·瑞泰特EM30" }]
+      },
+      {
+        "name": "恒源电动汽车",
+        "sub": [{ "name": "迈图" }, { "name": "迈乔" }]
+      },
+      {
+        "name": "新特汽车",
+        "sub": [{ "name": "SITECH DEV 1" }, { "name": "启能GEV 1" }]
+      },
+      { "name": "比克汽车", "sub": [{ "name": "比克兴熠" }] },
+      {
+        "name": "银隆新能源",
+        "sub": [{ "name": "银隆5024EV" }, { "name": "银隆艾菲" }]
+      },
+      {
+        "name": "华晨鑫源新能源",
+        "sub": [
+          { "name": "海狮EV" },
+          { "name": "鑫源T50EV" },
+          { "name": "好运2号" },
+          { "name": "小海狮EV" }
+        ]
+      },
+      {
+        "name": "陆地方舟",
+        "sub": [
+          { "name": "威途X35" },
+          { "name": "艾威" },
+          { "name": "陆地方舟V5" },
+          { "name": "陆地方舟风尚" }
+        ]
+      },
+      {
+        "name": "郑州日产",
+        "sub": [
+          { "name": "锐骐6新能源" },
+          { "name": "锐骐皮卡新能源" },
+          { "name": "帅客新能源" }
+        ]
+      },
+      {
+        "name": "卡威汽车",
+        "sub": [
+          { "name": "卡威W1新能源" },
+          { "name": "卡威E20" },
+          { "name": "卡威EV7" }
+        ]
+      },
+      {
+        "name": "福田汽车",
+        "sub": [{ "name": "图雅诺EV" }, { "name": "风景V5新能源" }]
+      },
+      {
+        "name": "吉利远程",
+        "sub": [{ "name": "远程E5" }, { "name": "远程E6" }]
+      },
+      { "name": "凯翼汽车", "sub": [{ "name": "凯翼E5 EV" }] },
+      {
+        "name": "福汽新龙马",
+        "sub": [
+          { "name": "启腾EX7" },
+          { "name": "启腾M70EV" },
+          { "name": "启腾N50EV" }
+        ]
+      },
+      {
+        "name": "开沃汽车",
+        "sub": [
+          { "name": "开沃D10" },
+          { "name": "开沃D07创业者" },
+          { "name": "开沃D11" },
+          { "name": "开沃D08" },
+          { "name": "开沃D09" }
+        ]
+      },
+      {
+        "name": "恒天汽车",
+        "sub": [{ "name": "恒好EV1" }, { "name": "恒好EV7" }]
+      },
+      {
+        "name": "厦门金旅",
+        "sub": [
+          { "name": "金旅海狮新能源" },
+          { "name": "金旅大海狮新能源" },
+          { "name": "领特新能源" }
+        ]
+      },
+      {
+        "name": "华晨鑫源",
+        "sub": [{ "name": "好运1号" }, { "name": "鑫源T20EV" }]
+      },
+      {
+        "name": "速达电动汽车",
+        "sub": [{ "name": "速达SD01" }, { "name": "速达SA01" }]
+      },
+      { "name": "宏远汽车", "sub": [{ "name": "宏远EM60" }] },
+      { "name": "厦门金龙", "sub": [{ "name": "金威新能源" }] },
+      {
+        "name": "航天神州汽车",
+        "sub": [{ "name": "DST神州5号" }, { "name": "航天金龙" }]
+      },
+      {
+        "name": "苏州金龙",
+        "sub": [{ "name": "海格H6V" }, { "name": "海格H4E" }]
+      },
+      { "name": "曙光汽车", "sub": [{ "name": "瑞途新能源" }] },
+      { "name": "宝马(进口)", "sub": [{ "name": "宝马i3" }] },
+      {
+        "name": "知豆电动车",
+        "sub": [
+          { "name": "知豆D2" },
+          { "name": "知豆" },
+          { "name": "知豆D1" },
+          { "name": "知豆D3" }
+        ]
+      },
+      {
+        "name": "大乘汽车",
+        "sub": [{ "name": "大乘G60E" }, { "name": "大乘E20" }]
+      },
+      {
+        "name": "众泰汽车",
+        "sub": [
+          { "name": "众泰M10EV" },
+          { "name": "众泰T300新能源" },
+          { "name": "众泰E200" },
+          { "name": "云100" },
+          { "name": "芝麻" },
+          { "name": "江南T11" },
+          { "name": "众泰Z500新能源" }
+        ]
+      },
+      {
+        "name": "力帆汽车",
+        "sub": [
+          { "name": "迈威新能源" },
+          { "name": "力帆620EV" },
+          { "name": "力帆330EV" },
+          { "name": "力帆650EV" },
+          { "name": "力帆820EV" }
+        ]
+      },
+      { "name": "红星汽车", "sub": [{ "name": "闪闪X2" }] },
+      { "name": "奇瑞汽车", "sub": [{ "name": "瑞麒M1" }] },
+      {
+        "name": "康迪电动汽车集团",
+        "sub": [
+          { "name": "全球鹰K27" },
+          { "name": "全球鹰K10" },
+          { "name": "全球鹰K11" },
+          { "name": "全球鹰K17" },
+          { "name": "全球鹰K12" },
+          { "name": "全球鹰EX3" }
+        ]
+      },
+      {
+        "name": "华泰汽车",
+        "sub": [{ "name": "路盛E70" }, { "name": "圣达菲" }]
+      },
+      { "name": "陕汽通家", "sub": [{ "name": "福家" }] },
+      { "name": "赛麟汽车", "sub": [{ "name": "迈迈" }] },
+      { "name": "前途汽车", "sub": [{ "name": "前途K50" }] },
+      {
+        "name": "华泰新能源",
+        "sub": [
+          { "name": "华泰iEV230" },
+          { "name": "华泰XEV260" },
+          { "name": "华泰EV160B" },
+          { "name": "华泰EV160R" },
+          { "name": "路盛S1" }
+        ]
+      },
+      {
+        "name": "猎豹汽车",
+        "sub": [{ "name": "猎豹C5EV" }, { "name": "猎豹CS9新能源" }]
+      },
+      { "name": "电咖汽车", "sub": [{ "name": "电咖·EV10" }] },
+      { "name": "华晨中华", "sub": [{ "name": "中华H230新能源" }] },
+      { "name": "一汽海马", "sub": [{ "name": "普力马EV" }] },
+      { "name": "天津一汽", "sub": [{ "name": "骏派A70E" }] },
+      { "name": "陕西通家", "sub": [{ "name": "国金GM3" }] },
+      { "name": "裕路汽车", "sub": [{ "name": "裕路EV2" }] },
+      {
+        "name": "领途汽车",
+        "sub": [{ "name": "领途E行" }, { "name": "领途K-ONE" }]
+      },
+      {
+        "name": "潍柴汽车",
+        "sub": [{ "name": "英致EX1" }, { "name": "英致737EV" }]
+      },
+      { "name": "中兴汽车", "sub": [{ "name": "小老虎EV" }] },
+      { "name": "广马汽车", "sub": [{ "name": "欧联M1" }] },
+      { "name": "长江汽车", "sub": [{ "name": "奕阁" }] },
+      { "name": "北京清行", "sub": [{ "name": "清行400" }] },
+      { "name": "NEVS国能汽车", "sub": [{ "name": "NEVS 93" }] }
+    ]
+  },
+
+  {
+    "name": "插电混动/增程混动车",
+    "sub": [
+      {
+        "name": "比亚迪",
+        "sub": [
+          { "name": "秦PLUS" },
+          { "name": "汉" },
+          { "name": "宋PLUS新能源" },
+          { "name": "唐新能源" },
+          { "name": "秦Pro新能源" },
+          { "name": "宋Pro新能源" },
+          { "name": "宋MAX新能源" },
+          { "name": "宋新能源" },
+          { "name": "比亚迪F3新能源" }
+        ]
+      },
+      { "name": "理想汽车", "sub": [{ "name": "理想ONE" }] },
+      { "name": "东风本田", "sub": [{ "name": "本田CR-V新能源" }] },
+      {
+        "name": "华晨宝马",
+        "sub": [
+          { "name": "宝马5系新能源" },
+          { "name": "宝马X1新能源" },
+          { "name": "之诺60H" }
+        ]
+      },
+      {
+        "name": "上汽大众",
+        "sub": [{ "name": "帕萨特新能源" }, { "name": "途观L新能源" }]
+      },
+      {
+        "name": "北京奔驰",
+        "sub": [{ "name": "奔驰E级新能源" }, { "name": "奔驰C级新能源" }]
+      },
+      { "name": "一汽-大众奥迪", "sub": [{ "name": "奥迪A6L新能源" }] },
+      {
+        "name": "保时捷",
+        "sub": [
+          { "name": "Panamera新能源" },
+          { "name": "Cayenne新能源" },
+          { "name": "918 Spyder" }
+        ]
+      },
+      {
+        "name": "法拉利",
+        "sub": [{ "name": "SF90" }, { "name": "LaFerrari" }]
+      },
+      { "name": "一汽丰田", "sub": [{ "name": "卡罗拉双擎E+" }] },
+      {
+        "name": "一汽-大众",
+        "sub": [{ "name": "迈腾新能源" }, { "name": "探岳新能源" }]
+      },
+      { "name": "宾利", "sub": [{ "name": "添越PHEV" }] },
+      { "name": "上汽通用别克", "sub": [{ "name": "微蓝6" }] },
+      { "name": "广汽丰田", "sub": [{ "name": "雷凌双擎E+" }] },
+      { "name": "奇瑞捷豹路虎", "sub": [{ "name": "发现运动版新能源" }] },
+      {
+        "name": "沃尔沃亚太",
+        "sub": [
+          { "name": "沃尔沃XC60新能源" },
+          { "name": "沃尔沃S60新能源" },
+          { "name": "沃尔沃S90新能源" }
+        ]
+      },
+      { "name": "长安标致雪铁龙", "sub": [{ "name": "DS 9新能源" }] },
+      { "name": "广汽菲克Jeep", "sub": [{ "name": "大指挥官新能源" }] },
+      { "name": "奔驰(进口)", "sub": [{ "name": "奔驰GLE新能源" }] },
+      {
+        "name": "领克",
+        "sub": [
+          { "name": "领克03新能源" },
+          { "name": "领克01新能源" },
+          { "name": "领克06新能源" },
+          { "name": "领克02新能源" }
+        ]
+      },
+      { "name": "极星", "sub": [{ "name": "Polestar 1" }] },
+      {
+        "name": "上汽集团",
+        "sub": [
+          { "name": "荣威RX5新能源" },
+          { "name": "名爵6新能源" },
+          { "name": "荣威ei6 MAX" },
+          { "name": "荣威RX5 MAX新能源" },
+          { "name": "荣威ei6" },
+          { "name": "MG领航新能源" },
+          { "name": "名爵HS新能源" },
+          { "name": "荣威e950" },
+          { "name": "荣威e550" }
+        ]
+      },
+      {
+        "name": "宝马(进口)",
+        "sub": [
+          { "name": "宝马X5新能源" },
+          { "name": "宝马7系新能源" },
+          { "name": "宝马i8" }
+        ]
+      },
+      { "name": "沃尔沃(进口)", "sub": [{ "name": "沃尔沃XC90新能源" }] },
+      {
+        "name": "大众(进口)",
+        "sub": [{ "name": "途锐新能源" }, { "name": "蔚揽新能源" }]
+      },
+      {
+        "name": "奥迪(进口)",
+        "sub": [
+          { "name": "奥迪A8新能源" },
+          { "name": "奥迪Q7新能源" },
+          { "name": "奥迪A3新能源(进口)" }
+        ]
+      },
+      {
+        "name": "东风标致",
+        "sub": [{ "name": "标致508新能源" }, { "name": "标致4008新能源" }]
+      },
+      {
+        "name": "路虎(进口)",
+        "sub": [{ "name": "揽胜运动版新能源" }, { "name": "揽胜新能源" }]
+      },
+      { "name": "克莱斯勒(进口)", "sub": [{ "name": "大捷龙PHEV(进口)" }] },
+      {
+        "name": "吉利新能源",
+        "sub": [
+          { "name": "博瑞新能源" },
+          { "name": "嘉际新能源" },
+          { "name": "缤越新能源" },
+          { "name": "星越新能源" },
+          { "name": "帝豪GL新能源" }
+        ]
+      },
+      { "name": "腾势汽车", "sub": [{ "name": "腾势X" }] },
+      { "name": "长安汽车", "sub": [{ "name": "长安CS75 PHEV" }] },
+      { "name": "东风雪铁龙", "sub": [{ "name": "天逸 C5 AIRCROSS新能源" }] },
+      {
+        "name": "广汽乘用车",
+        "sub": [{ "name": "传祺GS4新能源" }, { "name": "传祺GA5新能源" }]
+      },
+      {
+        "name": "上汽大通",
+        "sub": [{ "name": "EUNIQ 5" }, { "name": "EUNIQ 6" }]
+      },
+      {
+        "name": "长城汽车",
+        "sub": [
+          { "name": "WEY VV7新能源" },
+          { "name": "WEY VV7 GT新能源" },
+          { "name": "WEY P8" }
+        ]
+      },
+      {
+        "name": "东风悦达起亚",
+        "sub": [{ "name": "起亚K5新能源" }, { "name": "起亚K3新能源" }]
+      },
+      { "name": "林肯(进口)", "sub": [{ "name": "飞行家新能源" }] },
+      { "name": "松散机车", "sub": [{ "name": "SS DOLPHIN" }] },
+      { "name": "海马汽车", "sub": [{ "name": "海马6P" }] },
+      {
+        "name": "北京现代",
+        "sub": [{ "name": "索纳塔插电混动" }, { "name": "领动新能源" }]
+      },
+      { "name": "BEIJING汽车", "sub": [{ "name": "BEIJING X7新能源" }] },
+      { "name": "广汽埃安", "sub": [{ "name": "传祺GA3S PHEV" }] },
+      { "name": "东风小康", "sub": [{ "name": "风光580新能源" }] },
+      { "name": "迈凯伦", "sub": [{ "name": "迈凯伦P1" }] },
+      {
+        "name": "上汽通用凯迪拉克",
+        "sub": [{ "name": "凯迪拉克CT6 PLUG-IN" }]
+      },
+      { "name": "奇瑞汽车", "sub": [{ "name": "艾瑞泽7e" }] },
+      { "name": "长安福特", "sub": [{ "name": "蒙迪欧新能源" }] },
+      { "name": "广汽三菱", "sub": [{ "name": "祺智PHEV" }] },
+      { "name": "汉腾汽车", "sub": [{ "name": "汉腾X7新能源" }] },
+      { "name": "福特(进口)", "sub": [{ "name": "C-MAX" }] }
+    ]
+  }
+]
